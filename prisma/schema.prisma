@@ -1,0 +1,72 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./sql.db"
+}
+
+model User {
+  id             Int              @id @default(autoincrement())
+  username       String           @unique
+  password       String
+  lat            Float?           // User latitude position
+  lng            Float?           // User longitude position
+  createdAt      DateTime         @default(now())
+  updatedAt      DateTime         @updatedAt
+  role           String
+  RoadClosure    RoadClosure[]
+  ReportWildfire ReportWildfire[]
+}
+
+model RoadClosure {
+  id        Int      @id @default(autoincrement())
+  lat       Float
+  lng       Float
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  User      User     @relation(fields: [userId], references: [id])
+  userId    Int
+}
+
+model Shelter {
+  id        Int      @id @default(autoincrement())
+  shelterId String   @unique // shelter_id from GeoJSON
+  lat       Float
+  lng       Float
+  capacity  Int
+  hexId     String // hex_id from GeoJSON
+  region    String // "la" or "squamish"
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model ReportWildfire {
+  id        Int      @id @default(autoincrement())
+  lat       Float
+  lng       Float
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  User      User     @relation(fields: [userId], references: [id])
+  userId    Int
+}
+
+model CustomFire {
+  id           Int      @id @default(autoincrement())
+  objectId     BigInt   // OBJECTID from GeoJSON
+  lat          Float    // Center latitude
+  lng          Float    // Center longitude
+  type         String   // Heat Perimeter, etc.
+  shapeArea    Float    // Shape__Area from GeoJSON
+  shapeLength  Float    // Shape__Length from GeoJSON
+  geometry     String   // JSON string of polygon coordinates
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}

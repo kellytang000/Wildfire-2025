@@ -1,0 +1,14 @@
+# requirements.txt
+# ------------------  Python ≥3.10
+geopandas==1.1.0
+shapely==2.1.1
+networkx==3.5
+pyproj==3.7.1
+
+# GeoPandas
+fiona>=1.9           # 读写 GeoJSON / Shapefile 等
+rtree>=1.2           # 空间索引，加速 nearest_node 搜索
+
+
+pandas>=2.2
+numpy>=1.24

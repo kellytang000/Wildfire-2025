@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "shelters",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32610" } },
+"features": [
+{ "type": "Feature", "properties": { "shelter_id": "sh_00", "capacity": 300, "hex_id": "178e732ec3b7440999dd6ce74129d2de" }, "geometry": { "type": "Point", "coordinates": [ 490371.706778361345641, 5509968.090917996130884 ] } }
+]
+}

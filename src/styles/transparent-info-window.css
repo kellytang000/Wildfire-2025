@@ -1,0 +1,50 @@
+/* 透明信息窗口样式 */
+
+/* 自定义火灾信息窗口透明样式 */
+.transparent-table {
+  background: transparent !important;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.transparent-table .ant-table {
+  background: transparent !important;
+}
+
+.transparent-table .ant-table-thead > tr > th {
+  background: rgba(255, 255, 255, 0.85) !important;
+  backdrop-filter: blur(8px);
+  border-color: rgba(0, 0, 0, 0.15) !important;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.85) !important;
+}
+
+.transparent-table .ant-table-tbody > tr > td {
+  background: rgba(255, 255, 255, 0.7) !important;
+  backdrop-filter: blur(4px);
+  border-color: rgba(0, 0, 0, 0.1) !important;
+  color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.transparent-table .ant-table-tbody > tr:hover > td {
+  background: rgba(255, 255, 255, 0.9) !important;
+  backdrop-filter: blur(6px);
+}
+
+/* InfoWindow 容器样式优化 */
+.gm-style-iw-d {
+  overflow: visible !important;
+}
+
+.gm-style-iw-c {
+  background: transparent !important;
+  box-shadow: none !important;
+  border-radius: 8px !important;
+}
+
+/* 关闭按钮样式优化 */
+.gm-ui-hover-effect {
+  background: rgba(255, 255, 255, 0.8) !important;
+  border-radius: 50% !important;
+  backdrop-filter: blur(4px);
+}

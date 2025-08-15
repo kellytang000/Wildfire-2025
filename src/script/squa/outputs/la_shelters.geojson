@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "la_shelters",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "shelter_id": "sh_00", "capacity": 300, "hex_id": "b20cbdcbf3df471e989a1dcd2f184468" }, "geometry": { "type": "Point", "coordinates": [ -118.4557207, 34.0171651 ] } }
+]
+}
