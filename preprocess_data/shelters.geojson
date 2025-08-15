@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "shelters",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32610" } },
+"features": [
+{ "type": "Feature", "properties": { "shelter_id": 0, "name": "Hospital_0", "capacity": 182, "type": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 492592.390345806779806, 5509599.924517708830535 ] } },
+{ "type": "Feature", "properties": { "shelter_id": 1, "name": "School_1", "capacity": 473, "type": "School" }, "geometry": { "type": "Point", "coordinates": [ 492549.638093524612486, 5509509.36064263433218 ] } },
+{ "type": "Feature", "properties": { "shelter_id": 2, "name": "Stadium_2", "capacity": 408, "type": "Stadium" }, "geometry": { "type": "Point", "coordinates": [ 492490.998183723597322, 5509591.814762853085995 ] } }
+]
+}

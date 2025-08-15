@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "route_b0_c7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "batch": 0, "car": 7 }, "geometry": { "type": "LineString", "coordinates": [ [ -123.1461235, 49.759568 ], [ -123.1461289, 49.7605333 ], [ -123.1455279, 49.7605318 ], [ -123.1453468, 49.7605314 ], [ -123.144539, 49.7605293 ], [ -123.14424510000002, 49.7605286 ] ] } }
+]
+}

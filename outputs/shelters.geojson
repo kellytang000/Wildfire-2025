@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32610" } },
+"features": [
+{ "type": "Feature", "properties": { "shelter_id": "sh_00", "capacity": 300, "hex_id": "f83e39b3e51d461692b67e0a9af794ae" }, "geometry": { "type": "Point", "coordinates": [ 490371.706778361345641, 5509968.090917996130884 ] } },
+{ "type": "Feature", "properties": { "shelter_id": "sh_01", "capacity": 300, "hex_id": "bbf163b3fa464a39a26764ad31bcec85" }, "geometry": { "type": "Point", "coordinates": [ 489608.439292369526811, 5504582.65713675878942 ] } }
+]
+}

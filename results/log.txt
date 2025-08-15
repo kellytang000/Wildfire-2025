@@ -1,0 +1,588 @@
+Training started at 2025-08-08 00:13:33.904448
+======================================================================
+
+Episode 0: New best model! Evacuation rate: 14.26%, Evacuated: 67/470
+Episode 0, Average score: -3435.00, Best score: -3435.00, Epsilon: 0.999, Current evacuation: 67/470, Historical best evacuation: 67, Evacuation rate: 14.26%, Best evacuation rate: 14.26%, Average evacuation rate: 14.26%
+
+Episode 3: New best model! Evacuation rate: 15.96%, Evacuated: 75/470
+Episode 10, Average score: -3504.09, Best score: -3257.00, Epsilon: 0.989, Current evacuation: 68/470, Historical best evacuation: 75, Evacuation rate: 14.47%, Best evacuation rate: 15.96%, Average evacuation rate: 14.39%
+
+Episode 14: New best model! Evacuation rate: 16.81%, Evacuated: 79/470
+
+Episode 17: New best model! Evacuation rate: 17.02%, Evacuated: 80/470
+
+Episode 18: New best model! Evacuation rate: 19.57%, Evacuated: 92/470
+Episode 20, Average score: -3387.57, Best score: -2965.00, Epsilon: 0.979, Current evacuation: 64/470, Historical best evacuation: 92, Evacuation rate: 13.62%, Best evacuation rate: 19.57%, Average evacuation rate: 15.09%
+Episode 30, Average score: -3366.00, Best score: -2965.00, Epsilon: 0.969, Current evacuation: 90/470, Historical best evacuation: 92, Evacuation rate: 19.15%, Best evacuation rate: 19.57%, Average evacuation rate: 15.65%
+
+Episode 31: New best model! Evacuation rate: 20.21%, Evacuated: 95/470
+
+Episode 36: New best model! Evacuation rate: 20.43%, Evacuated: 96/470
+Episode 40, Average score: -3315.02, Best score: -3144.00, Epsilon: 0.960, Current evacuation: 94/470, Historical best evacuation: 96, Evacuation rate: 20.00%, Best evacuation rate: 20.43%, Average evacuation rate: 16.42%
+
+Episode 44: New best model! Evacuation rate: 21.06%, Evacuated: 99/470
+Episode 50, Average score: -3260.02, Best score: -2996.00, Epsilon: 0.950, Current evacuation: 95/470, Historical best evacuation: 99, Evacuation rate: 20.21%, Best evacuation rate: 21.06%, Average evacuation rate: 17.04%
+
+Episode 52: New best model! Evacuation rate: 23.83%, Evacuated: 112/470
+Episode 60, Average score: -3207.25, Best score: -2762.00, Epsilon: 0.941, Current evacuation: 95/470, Historical best evacuation: 112, Evacuation rate: 20.21%, Best evacuation rate: 23.83%, Average evacuation rate: 17.66%
+Episode 70, Average score: -3178.92, Best score: -2762.00, Epsilon: 0.931, Current evacuation: 99/470, Historical best evacuation: 112, Evacuation rate: 21.06%, Best evacuation rate: 23.83%, Average evacuation rate: 18.10%
+Episode 80, Average score: -3139.67, Best score: -2762.00, Epsilon: 0.922, Current evacuation: 101/470, Historical best evacuation: 112, Evacuation rate: 21.49%, Best evacuation rate: 23.83%, Average evacuation rate: 18.53%
+Episode 90, Average score: -3099.34, Best score: -2762.00, Epsilon: 0.913, Current evacuation: 106/470, Historical best evacuation: 112, Evacuation rate: 22.55%, Best evacuation rate: 23.83%, Average evacuation rate: 18.95%
+
+Episode 95: New best model! Evacuation rate: 24.26%, Evacuated: 114/470
+Episode 100, Average score: -3061.66, Best score: -2777.02, Epsilon: 0.904, Current evacuation: 113/470, Historical best evacuation: 114, Evacuation rate: 24.04%, Best evacuation rate: 24.26%, Average evacuation rate: 19.43%
+Episode 110, Average score: -2979.88, Best score: -2777.02, Epsilon: 0.895, Current evacuation: 106/470, Historical best evacuation: 114, Evacuation rate: 22.55%, Best evacuation rate: 24.26%, Average evacuation rate: 20.33%
+
+Episode 112: New best model! Evacuation rate: 24.89%, Evacuated: 117/470
+Episode 120, Average score: -2924.44, Best score: -2449.00, Epsilon: 0.886, Current evacuation: 111/470, Historical best evacuation: 117, Evacuation rate: 23.62%, Best evacuation rate: 24.89%, Average evacuation rate: 21.11%
+
+Episode 122: New best model! Evacuation rate: 25.53%, Evacuated: 120/470
+Episode 130, Average score: -2861.73, Best score: -2635.00, Epsilon: 0.877, Current evacuation: 115/470, Historical best evacuation: 120, Evacuation rate: 24.47%, Best evacuation rate: 25.53%, Average evacuation rate: 21.83%
+
+Episode 133: New best model! Evacuation rate: 26.38%, Evacuated: 124/470
+
+Episode 139: New best model! Evacuation rate: 26.81%, Evacuated: 126/470
+Episode 140, Average score: -2788.06, Best score: -2174.00, Epsilon: 0.868, Current evacuation: 120/470, Historical best evacuation: 126, Evacuation rate: 25.53%, Best evacuation rate: 26.81%, Average evacuation rate: 22.50%
+Episode 150, Average score: -2737.68, Best score: -2174.00, Epsilon: 0.860, Current evacuation: 120/470, Historical best evacuation: 126, Evacuation rate: 25.53%, Best evacuation rate: 26.81%, Average evacuation rate: 23.10%
+
+Episode 151: New best model! Evacuation rate: 27.23%, Evacuated: 128/470
+
+Episode 154: New best model! Evacuation rate: 28.30%, Evacuated: 133/470
+
+Episode 160: New best model! Evacuation rate: 28.51%, Evacuated: 134/470
+Episode 160, Average score: -2679.10, Best score: -2244.00, Epsilon: 0.851, Current evacuation: 134/470, Historical best evacuation: 134, Evacuation rate: 28.51%, Best evacuation rate: 28.51%, Average evacuation rate: 23.67%
+Episode 170, Average score: -2615.28, Best score: -2244.00, Epsilon: 0.843, Current evacuation: 132/470, Historical best evacuation: 134, Evacuation rate: 28.09%, Best evacuation rate: 28.51%, Average evacuation rate: 24.29%
+Episode 180, Average score: -2566.87, Best score: -2244.00, Epsilon: 0.834, Current evacuation: 128/470, Historical best evacuation: 134, Evacuation rate: 27.23%, Best evacuation rate: 28.51%, Average evacuation rate: 24.81%
+
+Episode 188: New best model! Evacuation rate: 29.36%, Evacuated: 138/470
+
+Episode 190: New best model! Evacuation rate: 30.21%, Evacuated: 142/470
+Episode 190, Average score: -2520.66, Best score: -2063.19, Epsilon: 0.826, Current evacuation: 142/470, Historical best evacuation: 142, Evacuation rate: 30.21%, Best evacuation rate: 30.21%, Average evacuation rate: 25.35%
+Episode 200, Average score: -2468.18, Best score: -2063.19, Epsilon: 0.818, Current evacuation: 129/470, Historical best evacuation: 142, Evacuation rate: 27.45%, Best evacuation rate: 30.21%, Average evacuation rate: 25.87%
+Episode 210, Average score: -2424.86, Best score: -2063.19, Epsilon: 0.810, Current evacuation: 133/470, Historical best evacuation: 142, Evacuation rate: 28.30%, Best evacuation rate: 30.21%, Average evacuation rate: 26.34%
+
+Episode 217: New best model! Evacuation rate: 30.43%, Evacuated: 143/470
+Episode 220, Average score: -2373.79, Best score: -2013.00, Epsilon: 0.802, Current evacuation: 137/470, Historical best evacuation: 143, Evacuation rate: 29.15%, Best evacuation rate: 30.43%, Average evacuation rate: 26.86%
+
+Episode 223: New best model! Evacuation rate: 30.85%, Evacuated: 145/470
+Episode 230, Average score: -2315.44, Best score: -2041.00, Epsilon: 0.794, Current evacuation: 132/470, Historical best evacuation: 145, Evacuation rate: 28.09%, Best evacuation rate: 30.85%, Average evacuation rate: 27.36%
+
+Episode 236: New best model! Evacuation rate: 31.06%, Evacuated: 146/470
+Episode 240, Average score: -2285.54, Best score: -1854.00, Epsilon: 0.786, Current evacuation: 141/470, Historical best evacuation: 146, Evacuation rate: 30.00%, Best evacuation rate: 31.06%, Average evacuation rate: 27.77%
+
+Episode 244: New best model! Evacuation rate: 31.28%, Evacuated: 147/470
+
+Episode 250: New best model! Evacuation rate: 32.34%, Evacuated: 152/470
+Episode 250, Average score: -2236.31, Best score: -1821.00, Epsilon: 0.778, Current evacuation: 152/470, Historical best evacuation: 152, Evacuation rate: 32.34%, Best evacuation rate: 32.34%, Average evacuation rate: 28.26%
+
+Episode 257: New best model! Evacuation rate: 32.55%, Evacuated: 153/470
+Episode 260, Average score: -2200.06, Best score: -1726.00, Epsilon: 0.770, Current evacuation: 139/470, Historical best evacuation: 153, Evacuation rate: 29.57%, Best evacuation rate: 32.55%, Average evacuation rate: 28.67%
+Episode 270, Average score: -2164.76, Best score: -1726.00, Epsilon: 0.763, Current evacuation: 148/470, Historical best evacuation: 153, Evacuation rate: 31.49%, Best evacuation rate: 32.55%, Average evacuation rate: 28.97%
+Episode 280, Average score: -2118.82, Best score: -1726.00, Epsilon: 0.755, Current evacuation: 148/470, Historical best evacuation: 153, Evacuation rate: 31.49%, Best evacuation rate: 32.55%, Average evacuation rate: 29.35%
+Episode 290, Average score: -2078.21, Best score: -1726.00, Epsilon: 0.747, Current evacuation: 138/470, Historical best evacuation: 153, Evacuation rate: 29.36%, Best evacuation rate: 32.55%, Average evacuation rate: 29.65%
+
+Episode 299: New best model! Evacuation rate: 33.19%, Evacuated: 156/470
+Episode 300, Average score: -2043.90, Best score: -1580.00, Epsilon: 0.740, Current evacuation: 141/470, Historical best evacuation: 156, Evacuation rate: 30.00%, Best evacuation rate: 33.19%, Average evacuation rate: 29.90%
+
+Episode 302: New best model! Evacuation rate: 33.40%, Evacuated: 157/470
+
+Episode 306: New best model! Evacuation rate: 33.62%, Evacuated: 158/470
+Episode 310, Average score: -1992.66, Best score: -1601.00, Epsilon: 0.733, Current evacuation: 150/470, Historical best evacuation: 158, Evacuation rate: 31.91%, Best evacuation rate: 33.62%, Average evacuation rate: 30.32%
+Episode 320, Average score: -1953.71, Best score: -1601.00, Epsilon: 0.725, Current evacuation: 139/470, Historical best evacuation: 158, Evacuation rate: 29.57%, Best evacuation rate: 33.62%, Average evacuation rate: 30.59%
+
+Episode 321: New best model! Evacuation rate: 33.83%, Evacuated: 159/470
+Episode 330, Average score: -1917.73, Best score: -1633.00, Epsilon: 0.718, Current evacuation: 149/470, Historical best evacuation: 159, Evacuation rate: 31.70%, Best evacuation rate: 33.83%, Average evacuation rate: 30.93%
+Episode 340, Average score: -1876.15, Best score: -1633.00, Epsilon: 0.711, Current evacuation: 140/470, Historical best evacuation: 159, Evacuation rate: 29.79%, Best evacuation rate: 33.83%, Average evacuation rate: 31.17%
+
+Episode 347: New best model! Evacuation rate: 34.04%, Evacuated: 160/470
+Episode 350, Average score: -1846.54, Best score: -1448.00, Epsilon: 0.704, Current evacuation: 150/470, Historical best evacuation: 160, Evacuation rate: 31.91%, Best evacuation rate: 34.04%, Average evacuation rate: 31.28%
+
+Episode 358: New best model! Evacuation rate: 34.47%, Evacuated: 162/470
+Episode 360, Average score: -1805.31, Best score: -1386.00, Epsilon: 0.697, Current evacuation: 162/470, Historical best evacuation: 162, Evacuation rate: 34.47%, Best evacuation rate: 34.47%, Average evacuation rate: 31.56%
+
+Episode 362: New best model! Evacuation rate: 34.68%, Evacuated: 163/470
+Episode 370, Average score: -1749.59, Best score: -1451.00, Epsilon: 0.690, Current evacuation: 163/470, Historical best evacuation: 163, Evacuation rate: 34.68%, Best evacuation rate: 34.68%, Average evacuation rate: 31.94%
+
+Episode 372: New best model! Evacuation rate: 35.53%, Evacuated: 167/470
+Episode 380, Average score: -1722.36, Best score: -1378.00, Epsilon: 0.683, Current evacuation: 153/470, Historical best evacuation: 167, Evacuation rate: 32.55%, Best evacuation rate: 35.53%, Average evacuation rate: 32.17%
+Episode 390, Average score: -1691.33, Best score: -1378.00, Epsilon: 0.676, Current evacuation: 163/470, Historical best evacuation: 167, Evacuation rate: 34.68%, Best evacuation rate: 35.53%, Average evacuation rate: 32.35%
+Episode 400, Average score: -1658.63, Best score: -1378.00, Epsilon: 0.670, Current evacuation: 153/470, Historical best evacuation: 167, Evacuation rate: 32.55%, Best evacuation rate: 35.53%, Average evacuation rate: 32.58%
+Episode 410, Average score: -1640.88, Best score: -1378.00, Epsilon: 0.663, Current evacuation: 156/470, Historical best evacuation: 167, Evacuation rate: 33.19%, Best evacuation rate: 35.53%, Average evacuation rate: 32.67%
+Episode 420, Average score: -1617.49, Best score: -1378.00, Epsilon: 0.656, Current evacuation: 155/470, Historical best evacuation: 167, Evacuation rate: 32.98%, Best evacuation rate: 35.53%, Average evacuation rate: 32.91%
+Episode 430, Average score: -1598.08, Best score: -1378.00, Epsilon: 0.650, Current evacuation: 148/470, Historical best evacuation: 167, Evacuation rate: 31.49%, Best evacuation rate: 35.53%, Average evacuation rate: 32.95%
+Episode 440, Average score: -1594.96, Best score: -1378.00, Epsilon: 0.643, Current evacuation: 163/470, Historical best evacuation: 167, Evacuation rate: 34.68%, Best evacuation rate: 35.53%, Average evacuation rate: 32.95%
+
+Episode 441: New best model! Evacuation rate: 35.96%, Evacuated: 169/470
+
+Episode 445: New best model! Evacuation rate: 36.38%, Evacuated: 171/470
+
+Episode 448: New best model! Evacuation rate: 37.45%, Evacuated: 176/470
+Episode 450, Average score: -1551.02, Best score: -1117.00, Epsilon: 0.637, Current evacuation: 156/470, Historical best evacuation: 176, Evacuation rate: 33.19%, Best evacuation rate: 37.45%, Average evacuation rate: 33.28%
+Episode 460, Average score: -1536.03, Best score: -1117.00, Epsilon: 0.631, Current evacuation: 170/470, Historical best evacuation: 176, Evacuation rate: 36.17%, Best evacuation rate: 37.45%, Average evacuation rate: 33.42%
+
+Episode 461: New best model! Evacuation rate: 38.09%, Evacuated: 179/470
+Episode 470, Average score: -1527.78, Best score: -1299.00, Epsilon: 0.624, Current evacuation: 155/470, Historical best evacuation: 179, Evacuation rate: 32.98%, Best evacuation rate: 38.09%, Average evacuation rate: 33.52%
+Episode 480, Average score: -1493.54, Best score: -1299.00, Epsilon: 0.618, Current evacuation: 171/470, Historical best evacuation: 179, Evacuation rate: 36.38%, Best evacuation rate: 38.09%, Average evacuation rate: 33.78%
+Episode 490, Average score: -1458.14, Best score: -1299.00, Epsilon: 0.612, Current evacuation: 170/470, Historical best evacuation: 179, Evacuation rate: 36.17%, Best evacuation rate: 38.09%, Average evacuation rate: 34.07%
+
+Episode 499: New best model! Evacuation rate: 38.30%, Evacuated: 180/470
+Episode 500, Average score: -1419.24, Best score: -995.76, Epsilon: 0.606, Current evacuation: 168/470, Historical best evacuation: 180, Evacuation rate: 35.74%, Best evacuation rate: 38.30%, Average evacuation rate: 34.37%
+Episode 510, Average score: -1387.78, Best score: -995.76, Epsilon: 0.600, Current evacuation: 165/470, Historical best evacuation: 180, Evacuation rate: 35.11%, Best evacuation rate: 38.30%, Average evacuation rate: 34.58%
+Episode 520, Average score: -1360.62, Best score: -995.76, Epsilon: 0.594, Current evacuation: 164/470, Historical best evacuation: 180, Evacuation rate: 34.89%, Best evacuation rate: 38.30%, Average evacuation rate: 34.62%
+Episode 530, Average score: -1327.65, Best score: -995.76, Epsilon: 0.588, Current evacuation: 160/470, Historical best evacuation: 180, Evacuation rate: 34.04%, Best evacuation rate: 38.30%, Average evacuation rate: 34.87%
+Episode 540, Average score: -1276.40, Best score: -995.76, Epsilon: 0.582, Current evacuation: 170/470, Historical best evacuation: 180, Evacuation rate: 36.17%, Best evacuation rate: 38.30%, Average evacuation rate: 35.27%
+
+Episode 549: New best model! Evacuation rate: 38.51%, Evacuated: 181/470
+Episode 550, Average score: -1257.51, Best score: -921.05, Epsilon: 0.576, Current evacuation: 163/470, Historical best evacuation: 181, Evacuation rate: 34.68%, Best evacuation rate: 38.51%, Average evacuation rate: 35.44%
+
+Episode 553: New best model! Evacuation rate: 40.85%, Evacuated: 192/470
+Episode 560, Average score: -1217.46, Best score: -658.00, Epsilon: 0.570, Current evacuation: 180/470, Historical best evacuation: 192, Evacuation rate: 38.30%, Best evacuation rate: 40.85%, Average evacuation rate: 35.70%
+Episode 570, Average score: -1182.80, Best score: -658.00, Epsilon: 0.565, Current evacuation: 186/470, Historical best evacuation: 192, Evacuation rate: 39.57%, Best evacuation rate: 40.85%, Average evacuation rate: 35.96%
+Episode 580, Average score: -1153.45, Best score: -658.00, Epsilon: 0.559, Current evacuation: 186/470, Historical best evacuation: 192, Evacuation rate: 39.57%, Best evacuation rate: 40.85%, Average evacuation rate: 36.06%
+Episode 590, Average score: -1141.03, Best score: -658.00, Epsilon: 0.554, Current evacuation: 163/470, Historical best evacuation: 192, Evacuation rate: 34.68%, Best evacuation rate: 40.85%, Average evacuation rate: 36.12%
+Episode 600, Average score: -1114.37, Best score: -658.00, Epsilon: 0.548, Current evacuation: 188/470, Historical best evacuation: 192, Evacuation rate: 40.00%, Best evacuation rate: 40.85%, Average evacuation rate: 36.42%
+Episode 610, Average score: -1085.73, Best score: -658.00, Epsilon: 0.543, Current evacuation: 188/470, Historical best evacuation: 192, Evacuation rate: 40.00%, Best evacuation rate: 40.85%, Average evacuation rate: 36.70%
+Episode 620, Average score: -1059.82, Best score: -658.00, Epsilon: 0.537, Current evacuation: 179/470, Historical best evacuation: 192, Evacuation rate: 38.09%, Best evacuation rate: 40.85%, Average evacuation rate: 36.94%
+Episode 630, Average score: -1044.26, Best score: -658.00, Epsilon: 0.532, Current evacuation: 182/470, Historical best evacuation: 192, Evacuation rate: 38.72%, Best evacuation rate: 40.85%, Average evacuation rate: 37.13%
+Episode 640, Average score: -1024.06, Best score: -658.00, Epsilon: 0.527, Current evacuation: 177/470, Historical best evacuation: 192, Evacuation rate: 37.66%, Best evacuation rate: 40.85%, Average evacuation rate: 37.23%
+Episode 650, Average score: -1007.78, Best score: -658.00, Epsilon: 0.521, Current evacuation: 169/470, Historical best evacuation: 192, Evacuation rate: 35.96%, Best evacuation rate: 40.85%, Average evacuation rate: 37.25%
+Episode 660, Average score: -996.01, Best score: -658.00, Epsilon: 0.516, Current evacuation: 181/470, Historical best evacuation: 192, Evacuation rate: 38.51%, Best evacuation rate: 40.85%, Average evacuation rate: 37.21%
+Episode 670, Average score: -983.76, Best score: -658.00, Epsilon: 0.511, Current evacuation: 174/470, Historical best evacuation: 192, Evacuation rate: 37.02%, Best evacuation rate: 40.85%, Average evacuation rate: 37.21%
+
+Episode 674: New best model! Evacuation rate: 41.49%, Evacuated: 195/470
+
+Episode 679: New best model! Evacuation rate: 41.91%, Evacuated: 197/470
+Episode 680, Average score: -964.18, Best score: -536.00, Epsilon: 0.506, Current evacuation: 178/470, Historical best evacuation: 197, Evacuation rate: 37.87%, Best evacuation rate: 41.91%, Average evacuation rate: 37.41%
+Episode 690, Average score: -939.20, Best score: -536.00, Epsilon: 0.501, Current evacuation: 184/470, Historical best evacuation: 197, Evacuation rate: 39.15%, Best evacuation rate: 41.91%, Average evacuation rate: 37.57%
+Episode 700, Average score: -939.14, Best score: -536.00, Epsilon: 0.496, Current evacuation: 187/470, Historical best evacuation: 197, Evacuation rate: 39.79%, Best evacuation rate: 41.91%, Average evacuation rate: 37.42%
+Episode 710, Average score: -928.50, Best score: -536.00, Epsilon: 0.491, Current evacuation: 176/470, Historical best evacuation: 197, Evacuation rate: 37.45%, Best evacuation rate: 41.91%, Average evacuation rate: 37.32%
+Episode 720, Average score: -889.55, Best score: -536.00, Epsilon: 0.486, Current evacuation: 189/470, Historical best evacuation: 197, Evacuation rate: 40.21%, Best evacuation rate: 41.91%, Average evacuation rate: 37.50%
+Episode 730, Average score: -857.26, Best score: -536.00, Epsilon: 0.481, Current evacuation: 177/470, Historical best evacuation: 197, Evacuation rate: 37.66%, Best evacuation rate: 41.91%, Average evacuation rate: 37.60%
+Episode 740, Average score: -845.34, Best score: -536.00, Epsilon: 0.476, Current evacuation: 173/470, Historical best evacuation: 197, Evacuation rate: 36.81%, Best evacuation rate: 41.91%, Average evacuation rate: 37.56%
+Episode 750, Average score: -826.25, Best score: -536.00, Epsilon: 0.472, Current evacuation: 178/470, Historical best evacuation: 197, Evacuation rate: 37.87%, Best evacuation rate: 41.91%, Average evacuation rate: 37.66%
+Episode 760, Average score: -804.95, Best score: -536.00, Epsilon: 0.467, Current evacuation: 183/470, Historical best evacuation: 197, Evacuation rate: 38.94%, Best evacuation rate: 41.91%, Average evacuation rate: 37.78%
+Episode 770, Average score: -783.76, Best score: -536.00, Epsilon: 0.462, Current evacuation: 187/470, Historical best evacuation: 197, Evacuation rate: 39.79%, Best evacuation rate: 41.91%, Average evacuation rate: 37.87%
+Episode 780, Average score: -776.40, Best score: -536.00, Epsilon: 0.458, Current evacuation: 172/470, Historical best evacuation: 197, Evacuation rate: 36.60%, Best evacuation rate: 41.91%, Average evacuation rate: 37.71%
+Episode 790, Average score: -768.05, Best score: -536.00, Epsilon: 0.453, Current evacuation: 175/470, Historical best evacuation: 197, Evacuation rate: 37.23%, Best evacuation rate: 41.91%, Average evacuation rate: 37.55%
+Episode 800, Average score: -743.01, Best score: -536.00, Epsilon: 0.449, Current evacuation: 181/470, Historical best evacuation: 197, Evacuation rate: 38.51%, Best evacuation rate: 41.91%, Average evacuation rate: 37.62%
+Episode 810, Average score: -723.12, Best score: -536.00, Epsilon: 0.444, Current evacuation: 156/470, Historical best evacuation: 197, Evacuation rate: 33.19%, Best evacuation rate: 41.91%, Average evacuation rate: 37.65%
+
+Episode 819: New best model! Evacuation rate: 42.98%, Evacuated: 202/470
+Episode 820, Average score: -721.53, Best score: -353.00, Epsilon: 0.440, Current evacuation: 190/470, Historical best evacuation: 202, Evacuation rate: 40.43%, Best evacuation rate: 42.98%, Average evacuation rate: 37.71%
+Episode 830, Average score: -699.54, Best score: -353.00, Epsilon: 0.435, Current evacuation: 187/470, Historical best evacuation: 202, Evacuation rate: 39.79%, Best evacuation rate: 42.98%, Average evacuation rate: 37.76%
+Episode 840, Average score: -673.54, Best score: -353.00, Epsilon: 0.431, Current evacuation: 182/470, Historical best evacuation: 202, Evacuation rate: 38.72%, Best evacuation rate: 42.98%, Average evacuation rate: 37.91%
+Episode 850, Average score: -663.03, Best score: -353.00, Epsilon: 0.427, Current evacuation: 171/470, Historical best evacuation: 202, Evacuation rate: 36.38%, Best evacuation rate: 42.98%, Average evacuation rate: 37.89%
+Episode 860, Average score: -644.42, Best score: -353.00, Epsilon: 0.423, Current evacuation: 202/470, Historical best evacuation: 202, Evacuation rate: 42.98%, Best evacuation rate: 42.98%, Average evacuation rate: 38.14%
+
+Episode 863: New best model! Evacuation rate: 43.19%, Evacuated: 203/470
+
+Episode 867: New best model! Evacuation rate: 43.62%, Evacuated: 205/470
+Episode 870, Average score: -619.28, Best score: -92.00, Epsilon: 0.418, Current evacuation: 171/470, Historical best evacuation: 205, Evacuation rate: 36.38%, Best evacuation rate: 43.62%, Average evacuation rate: 38.37%
+Episode 880, Average score: -611.64, Best score: -92.00, Epsilon: 0.414, Current evacuation: 176/470, Historical best evacuation: 205, Evacuation rate: 37.45%, Best evacuation rate: 43.62%, Average evacuation rate: 38.51%
+
+Episode 886: New best model! Evacuation rate: 43.83%, Evacuated: 206/470
+Episode 890, Average score: -580.99, Best score: -301.00, Epsilon: 0.410, Current evacuation: 184/470, Historical best evacuation: 206, Evacuation rate: 39.15%, Best evacuation rate: 43.83%, Average evacuation rate: 39.02%
+Episode 900, Average score: -572.92, Best score: -301.00, Epsilon: 0.406, Current evacuation: 184/470, Historical best evacuation: 206, Evacuation rate: 39.15%, Best evacuation rate: 43.83%, Average evacuation rate: 39.12%
+Episode 910, Average score: -580.13, Best score: -301.00, Epsilon: 0.402, Current evacuation: 164/470, Historical best evacuation: 206, Evacuation rate: 34.89%, Best evacuation rate: 43.83%, Average evacuation rate: 38.95%
+
+Episode 918: New best model! Evacuation rate: 44.26%, Evacuated: 208/470
+Episode 920, Average score: -556.49, Best score: 24.00, Epsilon: 0.398, Current evacuation: 194/470, Historical best evacuation: 208, Evacuation rate: 41.28%, Best evacuation rate: 44.26%, Average evacuation rate: 38.97%
+Episode 930, Average score: -566.10, Best score: 24.00, Epsilon: 0.394, Current evacuation: 172/470, Historical best evacuation: 208, Evacuation rate: 36.60%, Best evacuation rate: 44.26%, Average evacuation rate: 38.92%
+Episode 940, Average score: -557.96, Best score: 24.00, Epsilon: 0.390, Current evacuation: 187/470, Historical best evacuation: 208, Evacuation rate: 39.79%, Best evacuation rate: 44.26%, Average evacuation rate: 39.10%
+Episode 950, Average score: -525.79, Best score: 24.00, Epsilon: 0.386, Current evacuation: 190/470, Historical best evacuation: 208, Evacuation rate: 40.43%, Best evacuation rate: 44.26%, Average evacuation rate: 39.32%
+Episode 960, Average score: -498.74, Best score: 24.00, Epsilon: 0.382, Current evacuation: 194/470, Historical best evacuation: 208, Evacuation rate: 41.28%, Best evacuation rate: 44.26%, Average evacuation rate: 39.32%
+
+Episode 967: New best model! Evacuation rate: 44.47%, Evacuated: 209/470
+Episode 970, Average score: -483.35, Best score: 102.00, Epsilon: 0.379, Current evacuation: 200/470, Historical best evacuation: 209, Evacuation rate: 42.55%, Best evacuation rate: 44.47%, Average evacuation rate: 39.40%
+Episode 980, Average score: -444.99, Best score: 102.00, Epsilon: 0.375, Current evacuation: 197/470, Historical best evacuation: 209, Evacuation rate: 41.91%, Best evacuation rate: 44.47%, Average evacuation rate: 39.75%
+Episode 990, Average score: -436.44, Best score: 102.00, Epsilon: 0.371, Current evacuation: 167/470, Historical best evacuation: 209, Evacuation rate: 35.53%, Best evacuation rate: 44.47%, Average evacuation rate: 39.53%
+Episode 1000, Average score: -411.01, Best score: 102.00, Epsilon: 0.367, Current evacuation: 196/470, Historical best evacuation: 209, Evacuation rate: 41.70%, Best evacuation rate: 44.47%, Average evacuation rate: 39.60%
+
+Episode 1007: New best model! Evacuation rate: 46.17%, Evacuated: 217/470
+Episode 1010, Average score: -346.54, Best score: 426.00, Epsilon: 0.364, Current evacuation: 206/470, Historical best evacuation: 217, Evacuation rate: 43.83%, Best evacuation rate: 46.17%, Average evacuation rate: 40.29%
+Episode 1020, Average score: -326.06, Best score: 426.00, Epsilon: 0.360, Current evacuation: 198/470, Historical best evacuation: 217, Evacuation rate: 42.13%, Best evacuation rate: 46.17%, Average evacuation rate: 40.53%
+Episode 1030, Average score: -309.05, Best score: 426.00, Epsilon: 0.356, Current evacuation: 174/470, Historical best evacuation: 217, Evacuation rate: 37.02%, Best evacuation rate: 46.17%, Average evacuation rate: 40.49%
+Episode 1040, Average score: -297.08, Best score: 426.00, Epsilon: 0.353, Current evacuation: 169/470, Historical best evacuation: 217, Evacuation rate: 35.96%, Best evacuation rate: 46.17%, Average evacuation rate: 40.45%
+Episode 1050, Average score: -308.19, Best score: 426.00, Epsilon: 0.349, Current evacuation: 199/470, Historical best evacuation: 217, Evacuation rate: 42.34%, Best evacuation rate: 46.17%, Average evacuation rate: 40.33%
+Episode 1060, Average score: -311.50, Best score: 426.00, Epsilon: 0.346, Current evacuation: 181/470, Historical best evacuation: 217, Evacuation rate: 38.51%, Best evacuation rate: 46.17%, Average evacuation rate: 40.37%
+Episode 1070, Average score: -303.41, Best score: 426.00, Epsilon: 0.342, Current evacuation: 188/470, Historical best evacuation: 217, Evacuation rate: 40.00%, Best evacuation rate: 46.17%, Average evacuation rate: 40.20%
+Episode 1080, Average score: -292.29, Best score: 426.00, Epsilon: 0.339, Current evacuation: 177/470, Historical best evacuation: 217, Evacuation rate: 37.66%, Best evacuation rate: 46.17%, Average evacuation rate: 40.17%
+Episode 1090, Average score: -266.42, Best score: 426.00, Epsilon: 0.336, Current evacuation: 183/470, Historical best evacuation: 217, Evacuation rate: 38.94%, Best evacuation rate: 46.17%, Average evacuation rate: 40.39%
+Episode 1100, Average score: -238.17, Best score: 426.00, Epsilon: 0.332, Current evacuation: 199/470, Historical best evacuation: 217, Evacuation rate: 42.34%, Best evacuation rate: 46.17%, Average evacuation rate: 40.64%
+Episode 1110, Average score: -244.91, Best score: 426.00, Epsilon: 0.329, Current evacuation: 182/470, Historical best evacuation: 217, Evacuation rate: 38.72%, Best evacuation rate: 46.17%, Average evacuation rate: 40.39%
+Episode 1120, Average score: -237.91, Best score: 426.00, Epsilon: 0.326, Current evacuation: 198/470, Historical best evacuation: 217, Evacuation rate: 42.13%, Best evacuation rate: 46.17%, Average evacuation rate: 40.40%
+Episode 1130, Average score: -194.31, Best score: 426.00, Epsilon: 0.323, Current evacuation: 199/470, Historical best evacuation: 217, Evacuation rate: 42.34%, Best evacuation rate: 46.17%, Average evacuation rate: 40.89%
+Episode 1140, Average score: -164.54, Best score: 426.00, Epsilon: 0.319, Current evacuation: 165/470, Historical best evacuation: 217, Evacuation rate: 35.11%, Best evacuation rate: 46.17%, Average evacuation rate: 41.16%
+Episode 1150, Average score: -122.39, Best score: 426.00, Epsilon: 0.316, Current evacuation: 196/470, Historical best evacuation: 217, Evacuation rate: 41.70%, Best evacuation rate: 46.17%, Average evacuation rate: 41.51%
+Episode 1160, Average score: -104.29, Best score: 426.00, Epsilon: 0.313, Current evacuation: 180/470, Historical best evacuation: 217, Evacuation rate: 38.30%, Best evacuation rate: 46.17%, Average evacuation rate: 41.49%
+Episode 1170, Average score: -98.25, Best score: 426.00, Epsilon: 0.310, Current evacuation: 195/470, Historical best evacuation: 217, Evacuation rate: 41.49%, Best evacuation rate: 46.17%, Average evacuation rate: 41.45%
+Episode 1180, Average score: -92.53, Best score: 426.00, Epsilon: 0.307, Current evacuation: 197/470, Historical best evacuation: 217, Evacuation rate: 41.91%, Best evacuation rate: 46.17%, Average evacuation rate: 41.36%
+Episode 1190, Average score: -91.53, Best score: 426.00, Epsilon: 0.304, Current evacuation: 199/470, Historical best evacuation: 217, Evacuation rate: 42.34%, Best evacuation rate: 46.17%, Average evacuation rate: 41.31%
+Episode 1200, Average score: -95.45, Best score: 426.00, Epsilon: 0.301, Current evacuation: 197/470, Historical best evacuation: 217, Evacuation rate: 41.91%, Best evacuation rate: 46.17%, Average evacuation rate: 41.13%
+Episode 1210, Average score: -86.18, Best score: 426.00, Epsilon: 0.298, Current evacuation: 202/470, Historical best evacuation: 217, Evacuation rate: 42.98%, Best evacuation rate: 46.17%, Average evacuation rate: 41.21%
+Episode 1220, Average score: -83.12, Best score: 426.00, Epsilon: 0.295, Current evacuation: 188/470, Historical best evacuation: 217, Evacuation rate: 40.00%, Best evacuation rate: 46.17%, Average evacuation rate: 41.16%
+Episode 1230, Average score: -79.28, Best score: 426.00, Epsilon: 0.292, Current evacuation: 203/470, Historical best evacuation: 217, Evacuation rate: 43.19%, Best evacuation rate: 46.17%, Average evacuation rate: 41.09%
+Episode 1240, Average score: -85.53, Best score: 426.00, Epsilon: 0.289, Current evacuation: 174/470, Historical best evacuation: 217, Evacuation rate: 37.02%, Best evacuation rate: 46.17%, Average evacuation rate: 40.84%
+Episode 1250, Average score: -89.88, Best score: 426.00, Epsilon: 0.286, Current evacuation: 183/470, Historical best evacuation: 217, Evacuation rate: 38.94%, Best evacuation rate: 46.17%, Average evacuation rate: 40.61%
+Episode 1260, Average score: -96.68, Best score: 426.00, Epsilon: 0.283, Current evacuation: 185/470, Historical best evacuation: 217, Evacuation rate: 39.36%, Best evacuation rate: 46.17%, Average evacuation rate: 40.50%
+Episode 1270, Average score: -84.04, Best score: 426.00, Epsilon: 0.280, Current evacuation: 190/470, Historical best evacuation: 217, Evacuation rate: 40.43%, Best evacuation rate: 46.17%, Average evacuation rate: 40.66%
+Episode 1280, Average score: -66.72, Best score: 426.00, Epsilon: 0.278, Current evacuation: 203/470, Historical best evacuation: 217, Evacuation rate: 43.19%, Best evacuation rate: 46.17%, Average evacuation rate: 40.67%
+Episode 1290, Average score: -52.06, Best score: 426.00, Epsilon: 0.275, Current evacuation: 197/470, Historical best evacuation: 217, Evacuation rate: 41.91%, Best evacuation rate: 46.17%, Average evacuation rate: 40.79%
+
+Episode 1298: New best model! Evacuation rate: 46.38%, Evacuated: 218/470
+Episode 1300, Average score: -33.29, Best score: 476.00, Epsilon: 0.272, Current evacuation: 208/470, Historical best evacuation: 218, Evacuation rate: 44.26%, Best evacuation rate: 46.38%, Average evacuation rate: 41.00%
+Episode 1310, Average score: -11.25, Best score: 476.00, Epsilon: 0.269, Current evacuation: 213/470, Historical best evacuation: 218, Evacuation rate: 45.32%, Best evacuation rate: 46.38%, Average evacuation rate: 41.28%
+
+Episode 1319: New best model! Evacuation rate: 47.02%, Evacuated: 221/470
+Episode 1320, Average score: 9.24, Best score: 212.00, Epsilon: 0.267, Current evacuation: 193/470, Historical best evacuation: 221, Evacuation rate: 41.06%, Best evacuation rate: 47.02%, Average evacuation rate: 41.51%
+Episode 1330, Average score: 8.63, Best score: 212.00, Epsilon: 0.264, Current evacuation: 187/470, Historical best evacuation: 221, Evacuation rate: 39.79%, Best evacuation rate: 47.02%, Average evacuation rate: 41.39%
+Episode 1340, Average score: 24.83, Best score: 212.00, Epsilon: 0.261, Current evacuation: 197/470, Historical best evacuation: 221, Evacuation rate: 41.91%, Best evacuation rate: 47.02%, Average evacuation rate: 41.45%
+Episode 1350, Average score: 36.26, Best score: 212.00, Epsilon: 0.259, Current evacuation: 191/470, Historical best evacuation: 221, Evacuation rate: 40.64%, Best evacuation rate: 47.02%, Average evacuation rate: 41.53%
+Episode 1360, Average score: 45.18, Best score: 212.00, Epsilon: 0.256, Current evacuation: 193/470, Historical best evacuation: 221, Evacuation rate: 41.06%, Best evacuation rate: 47.02%, Average evacuation rate: 41.59%
+Episode 1370, Average score: 46.64, Best score: 212.00, Epsilon: 0.254, Current evacuation: 206/470, Historical best evacuation: 221, Evacuation rate: 43.83%, Best evacuation rate: 47.02%, Average evacuation rate: 41.52%
+Episode 1380, Average score: 27.02, Best score: 212.00, Epsilon: 0.251, Current evacuation: 185/470, Historical best evacuation: 221, Evacuation rate: 39.36%, Best evacuation rate: 47.02%, Average evacuation rate: 41.40%
+Episode 1390, Average score: 34.09, Best score: 212.00, Epsilon: 0.249, Current evacuation: 197/470, Historical best evacuation: 221, Evacuation rate: 41.91%, Best evacuation rate: 47.02%, Average evacuation rate: 41.27%
+Episode 1400, Average score: 28.57, Best score: 212.00, Epsilon: 0.246, Current evacuation: 183/470, Historical best evacuation: 221, Evacuation rate: 38.94%, Best evacuation rate: 47.02%, Average evacuation rate: 41.09%
+Episode 1410, Average score: 18.74, Best score: 212.00, Epsilon: 0.244, Current evacuation: 193/470, Historical best evacuation: 221, Evacuation rate: 41.06%, Best evacuation rate: 47.02%, Average evacuation rate: 40.91%
+Episode 1420, Average score: 13.79, Best score: 212.00, Epsilon: 0.241, Current evacuation: 185/470, Historical best evacuation: 221, Evacuation rate: 39.36%, Best evacuation rate: 47.02%, Average evacuation rate: 40.71%
+Episode 1430, Average score: -13.29, Best score: 212.00, Epsilon: 0.239, Current evacuation: 178/470, Historical best evacuation: 221, Evacuation rate: 37.87%, Best evacuation rate: 47.02%, Average evacuation rate: 40.33%
+Episode 1440, Average score: -22.29, Best score: 212.00, Epsilon: 0.237, Current evacuation: 200/470, Historical best evacuation: 221, Evacuation rate: 42.55%, Best evacuation rate: 47.02%, Average evacuation rate: 40.22%
+Episode 1450, Average score: -42.02, Best score: 212.00, Epsilon: 0.234, Current evacuation: 182/470, Historical best evacuation: 221, Evacuation rate: 38.72%, Best evacuation rate: 47.02%, Average evacuation rate: 39.93%
+Episode 1460, Average score: -47.27, Best score: 212.00, Epsilon: 0.232, Current evacuation: 162/470, Historical best evacuation: 221, Evacuation rate: 34.47%, Best evacuation rate: 47.02%, Average evacuation rate: 39.69%
+Episode 1470, Average score: -80.60, Best score: 212.00, Epsilon: 0.230, Current evacuation: 164/470, Historical best evacuation: 221, Evacuation rate: 34.89%, Best evacuation rate: 47.02%, Average evacuation rate: 39.27%
+Episode 1480, Average score: -68.37, Best score: 212.00, Epsilon: 0.227, Current evacuation: 176/470, Historical best evacuation: 221, Evacuation rate: 37.45%, Best evacuation rate: 47.02%, Average evacuation rate: 39.33%
+Episode 1490, Average score: -90.56, Best score: 212.00, Epsilon: 0.225, Current evacuation: 173/470, Historical best evacuation: 221, Evacuation rate: 36.81%, Best evacuation rate: 47.02%, Average evacuation rate: 38.98%
+Episode 1500, Average score: -92.94, Best score: 212.00, Epsilon: 0.223, Current evacuation: 198/470, Historical best evacuation: 221, Evacuation rate: 42.13%, Best evacuation rate: 47.02%, Average evacuation rate: 38.86%
+
+Episode 1503: New best model! Evacuation rate: 47.45%, Evacuated: 223/470
+Episode 1510, Average score: -87.65, Best score: 522.00, Epsilon: 0.221, Current evacuation: 185/470, Historical best evacuation: 223, Evacuation rate: 39.36%, Best evacuation rate: 47.45%, Average evacuation rate: 38.83%
+Episode 1520, Average score: -90.14, Best score: 522.00, Epsilon: 0.218, Current evacuation: 179/470, Historical best evacuation: 223, Evacuation rate: 38.09%, Best evacuation rate: 47.45%, Average evacuation rate: 38.73%
+Episode 1530, Average score: -99.02, Best score: 522.00, Epsilon: 0.216, Current evacuation: 178/470, Historical best evacuation: 223, Evacuation rate: 37.87%, Best evacuation rate: 47.45%, Average evacuation rate: 38.57%
+Episode 1540, Average score: -84.34, Best score: 522.00, Epsilon: 0.214, Current evacuation: 198/470, Historical best evacuation: 223, Evacuation rate: 42.13%, Best evacuation rate: 47.45%, Average evacuation rate: 38.65%
+Episode 1550, Average score: -44.95, Best score: 522.00, Epsilon: 0.212, Current evacuation: 204/470, Historical best evacuation: 223, Evacuation rate: 43.40%, Best evacuation rate: 47.45%, Average evacuation rate: 39.05%
+Episode 1560, Average score: -34.37, Best score: 522.00, Epsilon: 0.210, Current evacuation: 172/470, Historical best evacuation: 223, Evacuation rate: 36.60%, Best evacuation rate: 47.45%, Average evacuation rate: 39.19%
+Episode 1570, Average score: -4.41, Best score: 522.00, Epsilon: 0.208, Current evacuation: 198/470, Historical best evacuation: 223, Evacuation rate: 42.13%, Best evacuation rate: 47.45%, Average evacuation rate: 39.43%
+Episode 1580, Average score: 20.02, Best score: 522.00, Epsilon: 0.206, Current evacuation: 207/470, Historical best evacuation: 223, Evacuation rate: 44.04%, Best evacuation rate: 47.45%, Average evacuation rate: 39.67%
+Episode 1590, Average score: 28.06, Best score: 522.00, Epsilon: 0.204, Current evacuation: 166/470, Historical best evacuation: 223, Evacuation rate: 35.32%, Best evacuation rate: 47.45%, Average evacuation rate: 39.83%
+Episode 1600, Average score: 14.25, Best score: 522.00, Epsilon: 0.202, Current evacuation: 175/470, Historical best evacuation: 223, Evacuation rate: 37.23%, Best evacuation rate: 47.45%, Average evacuation rate: 39.65%
+Episode 1610, Average score: -52.53, Best score: 522.00, Epsilon: 0.200, Current evacuation: 146/470, Historical best evacuation: 223, Evacuation rate: 31.06%, Best evacuation rate: 47.45%, Average evacuation rate: 38.62%
+Episode 1620, Average score: -67.27, Best score: 522.00, Epsilon: 0.198, Current evacuation: 180/470, Historical best evacuation: 223, Evacuation rate: 38.30%, Best evacuation rate: 47.45%, Average evacuation rate: 38.23%
+Episode 1630, Average score: -26.49, Best score: 522.00, Epsilon: 0.196, Current evacuation: 180/470, Historical best evacuation: 223, Evacuation rate: 38.30%, Best evacuation rate: 47.45%, Average evacuation rate: 38.53%
+Episode 1640, Average score: -29.71, Best score: 522.00, Epsilon: 0.194, Current evacuation: 183/470, Historical best evacuation: 223, Evacuation rate: 38.94%, Best evacuation rate: 47.45%, Average evacuation rate: 38.45%
+Episode 1650, Average score: -36.81, Best score: 522.00, Epsilon: 0.192, Current evacuation: 214/470, Historical best evacuation: 223, Evacuation rate: 45.53%, Best evacuation rate: 47.45%, Average evacuation rate: 38.44%
+Episode 1660, Average score: -26.25, Best score: 522.00, Epsilon: 0.190, Current evacuation: 206/470, Historical best evacuation: 223, Evacuation rate: 43.83%, Best evacuation rate: 47.45%, Average evacuation rate: 38.55%
+Episode 1670, Average score: 0.15, Best score: 522.00, Epsilon: 0.188, Current evacuation: 192/470, Historical best evacuation: 223, Evacuation rate: 40.85%, Best evacuation rate: 47.45%, Average evacuation rate: 38.83%
+Episode 1680, Average score: -9.86, Best score: 522.00, Epsilon: 0.186, Current evacuation: 158/470, Historical best evacuation: 223, Evacuation rate: 33.62%, Best evacuation rate: 47.45%, Average evacuation rate: 38.67%
+Episode 1690, Average score: 18.82, Best score: 522.00, Epsilon: 0.184, Current evacuation: 210/470, Historical best evacuation: 223, Evacuation rate: 44.68%, Best evacuation rate: 47.45%, Average evacuation rate: 39.00%
+Episode 1700, Average score: 44.82, Best score: 522.00, Epsilon: 0.182, Current evacuation: 194/470, Historical best evacuation: 223, Evacuation rate: 41.28%, Best evacuation rate: 47.45%, Average evacuation rate: 39.30%
+Episode 1710, Average score: 75.73, Best score: 522.00, Epsilon: 0.181, Current evacuation: 165/470, Historical best evacuation: 223, Evacuation rate: 35.11%, Best evacuation rate: 47.45%, Average evacuation rate: 39.88%
+Episode 1720, Average score: 75.00, Best score: 522.00, Epsilon: 0.179, Current evacuation: 167/470, Historical best evacuation: 223, Evacuation rate: 35.53%, Best evacuation rate: 47.45%, Average evacuation rate: 40.04%
+Episode 1730, Average score: 47.01, Best score: 522.00, Epsilon: 0.177, Current evacuation: 195/470, Historical best evacuation: 223, Evacuation rate: 41.49%, Best evacuation rate: 47.45%, Average evacuation rate: 39.82%
+Episode 1740, Average score: -14.45, Best score: 522.00, Epsilon: 0.175, Current evacuation: 143/470, Historical best evacuation: 223, Evacuation rate: 30.43%, Best evacuation rate: 47.45%, Average evacuation rate: 39.30%
+Episode 1750, Average score: -107.75, Best score: 522.00, Epsilon: 0.173, Current evacuation: 172/470, Historical best evacuation: 223, Evacuation rate: 36.60%, Best evacuation rate: 47.45%, Average evacuation rate: 38.34%
+Episode 1760, Average score: -117.55, Best score: 522.00, Epsilon: 0.172, Current evacuation: 196/470, Historical best evacuation: 223, Evacuation rate: 41.70%, Best evacuation rate: 47.45%, Average evacuation rate: 37.94%
+Episode 1770, Average score: -143.64, Best score: 522.00, Epsilon: 0.170, Current evacuation: 188/470, Historical best evacuation: 223, Evacuation rate: 40.00%, Best evacuation rate: 47.45%, Average evacuation rate: 37.85%
+Episode 1780, Average score: -130.02, Best score: 522.00, Epsilon: 0.168, Current evacuation: 192/470, Historical best evacuation: 223, Evacuation rate: 40.85%, Best evacuation rate: 47.45%, Average evacuation rate: 38.17%
+Episode 1790, Average score: -112.11, Best score: 522.00, Epsilon: 0.167, Current evacuation: 196/470, Historical best evacuation: 223, Evacuation rate: 41.70%, Best evacuation rate: 47.45%, Average evacuation rate: 38.20%
+Episode 1800, Average score: -78.95, Best score: 522.00, Epsilon: 0.165, Current evacuation: 219/470, Historical best evacuation: 223, Evacuation rate: 46.60%, Best evacuation rate: 47.45%, Average evacuation rate: 38.46%
+Episode 1810, Average score: -12.85, Best score: 522.00, Epsilon: 0.163, Current evacuation: 188/470, Historical best evacuation: 223, Evacuation rate: 40.00%, Best evacuation rate: 47.45%, Average evacuation rate: 39.10%
+Episode 1820, Average score: 46.80, Best score: 522.00, Epsilon: 0.162, Current evacuation: 209/470, Historical best evacuation: 223, Evacuation rate: 44.47%, Best evacuation rate: 47.45%, Average evacuation rate: 39.67%
+Episode 1830, Average score: 92.37, Best score: 522.00, Epsilon: 0.160, Current evacuation: 178/470, Historical best evacuation: 223, Evacuation rate: 37.87%, Best evacuation rate: 47.45%, Average evacuation rate: 40.10%
+Episode 1840, Average score: 158.37, Best score: 522.00, Epsilon: 0.159, Current evacuation: 194/470, Historical best evacuation: 223, Evacuation rate: 41.28%, Best evacuation rate: 47.45%, Average evacuation rate: 40.70%
+Episode 1850, Average score: 262.33, Best score: 522.00, Epsilon: 0.157, Current evacuation: 205/470, Historical best evacuation: 223, Evacuation rate: 43.62%, Best evacuation rate: 47.45%, Average evacuation rate: 41.70%
+Episode 1860, Average score: 300.33, Best score: 522.00, Epsilon: 0.155, Current evacuation: 202/470, Historical best evacuation: 223, Evacuation rate: 42.98%, Best evacuation rate: 47.45%, Average evacuation rate: 42.39%
+Episode 1870, Average score: 343.80, Best score: 522.00, Epsilon: 0.154, Current evacuation: 198/470, Historical best evacuation: 223, Evacuation rate: 42.13%, Best evacuation rate: 47.45%, Average evacuation rate: 42.70%
+Episode 1880, Average score: 353.35, Best score: 522.00, Epsilon: 0.152, Current evacuation: 204/470, Historical best evacuation: 223, Evacuation rate: 43.40%, Best evacuation rate: 47.45%, Average evacuation rate: 42.49%
+Episode 1890, Average score: 343.92, Best score: 522.00, Epsilon: 0.151, Current evacuation: 195/470, Historical best evacuation: 223, Evacuation rate: 41.49%, Best evacuation rate: 47.45%, Average evacuation rate: 42.40%
+Episode 1900, Average score: 327.78, Best score: 522.00, Epsilon: 0.149, Current evacuation: 210/470, Historical best evacuation: 223, Evacuation rate: 44.68%, Best evacuation rate: 47.45%, Average evacuation rate: 42.21%
+Episode 1910, Average score: 338.50, Best score: 522.00, Epsilon: 0.148, Current evacuation: 196/470, Historical best evacuation: 223, Evacuation rate: 41.70%, Best evacuation rate: 47.45%, Average evacuation rate: 42.24%
+Episode 1920, Average score: 326.27, Best score: 522.00, Epsilon: 0.146, Current evacuation: 207/470, Historical best evacuation: 223, Evacuation rate: 44.04%, Best evacuation rate: 47.45%, Average evacuation rate: 42.09%
+Episode 1930, Average score: 349.11, Best score: 522.00, Epsilon: 0.145, Current evacuation: 191/470, Historical best evacuation: 223, Evacuation rate: 40.64%, Best evacuation rate: 47.45%, Average evacuation rate: 42.27%
+Episode 1940, Average score: 375.46, Best score: 522.00, Epsilon: 0.143, Current evacuation: 209/470, Historical best evacuation: 223, Evacuation rate: 44.47%, Best evacuation rate: 47.45%, Average evacuation rate: 42.47%
+Episode 1950, Average score: 389.18, Best score: 522.00, Epsilon: 0.142, Current evacuation: 190/470, Historical best evacuation: 223, Evacuation rate: 40.43%, Best evacuation rate: 47.45%, Average evacuation rate: 42.43%
+Episode 1960, Average score: 376.90, Best score: 522.00, Epsilon: 0.141, Current evacuation: 206/470, Historical best evacuation: 223, Evacuation rate: 43.83%, Best evacuation rate: 47.45%, Average evacuation rate: 42.05%
+Episode 1970, Average score: 379.60, Best score: 522.00, Epsilon: 0.139, Current evacuation: 186/470, Historical best evacuation: 223, Evacuation rate: 39.57%, Best evacuation rate: 47.45%, Average evacuation rate: 41.86%
+Episode 1980, Average score: 393.43, Best score: 522.00, Epsilon: 0.138, Current evacuation: 191/470, Historical best evacuation: 223, Evacuation rate: 40.64%, Best evacuation rate: 47.45%, Average evacuation rate: 41.87%
+Episode 1990, Average score: 414.91, Best score: 522.00, Epsilon: 0.136, Current evacuation: 202/470, Historical best evacuation: 223, Evacuation rate: 42.98%, Best evacuation rate: 47.45%, Average evacuation rate: 41.96%
+Episode 2000, Average score: 414.54, Best score: 522.00, Epsilon: 0.135, Current evacuation: 205/470, Historical best evacuation: 223, Evacuation rate: 43.62%, Best evacuation rate: 47.45%, Average evacuation rate: 41.77%
+Episode 2010, Average score: 391.42, Best score: 522.00, Epsilon: 0.134, Current evacuation: 185/470, Historical best evacuation: 223, Evacuation rate: 39.36%, Best evacuation rate: 47.45%, Average evacuation rate: 41.33%
+Episode 2020, Average score: 394.19, Best score: 522.00, Epsilon: 0.132, Current evacuation: 183/470, Historical best evacuation: 223, Evacuation rate: 38.94%, Best evacuation rate: 47.45%, Average evacuation rate: 41.16%
+Episode 2030, Average score: 403.63, Best score: 522.00, Epsilon: 0.131, Current evacuation: 208/470, Historical best evacuation: 223, Evacuation rate: 44.26%, Best evacuation rate: 47.45%, Average evacuation rate: 41.18%
+Episode 2040, Average score: 416.94, Best score: 522.00, Epsilon: 0.130, Current evacuation: 188/470, Historical best evacuation: 223, Evacuation rate: 40.00%, Best evacuation rate: 47.45%, Average evacuation rate: 41.07%
+Episode 2050, Average score: 430.91, Best score: 522.00, Epsilon: 0.128, Current evacuation: 195/470, Historical best evacuation: 223, Evacuation rate: 41.49%, Best evacuation rate: 47.45%, Average evacuation rate: 41.17%
+Episode 2060, Average score: 449.66, Best score: 522.00, Epsilon: 0.127, Current evacuation: 205/470, Historical best evacuation: 223, Evacuation rate: 43.62%, Best evacuation rate: 47.45%, Average evacuation rate: 41.40%
+
+Episode 2069: New best model! Evacuation rate: 48.30%, Evacuated: 227/470
+Episode 2070, Average score: 440.57, Best score: 916.00, Epsilon: 0.126, Current evacuation: 173/470, Historical best evacuation: 227, Evacuation rate: 36.81%, Best evacuation rate: 48.30%, Average evacuation rate: 41.42%
+Episode 2080, Average score: 415.22, Best score: 916.00, Epsilon: 0.125, Current evacuation: 191/470, Historical best evacuation: 227, Evacuation rate: 40.64%, Best evacuation rate: 48.30%, Average evacuation rate: 41.34%
+Episode 2090, Average score: 403.29, Best score: 916.00, Epsilon: 0.123, Current evacuation: 204/470, Historical best evacuation: 227, Evacuation rate: 43.40%, Best evacuation rate: 48.30%, Average evacuation rate: 41.24%
+Episode 2100, Average score: 418.47, Best score: 916.00, Epsilon: 0.122, Current evacuation: 200/470, Historical best evacuation: 227, Evacuation rate: 42.55%, Best evacuation rate: 48.30%, Average evacuation rate: 41.46%
+Episode 2110, Average score: 441.30, Best score: 916.00, Epsilon: 0.121, Current evacuation: 190/470, Historical best evacuation: 227, Evacuation rate: 40.43%, Best evacuation rate: 48.30%, Average evacuation rate: 41.75%
+Episode 2120, Average score: 451.71, Best score: 916.00, Epsilon: 0.120, Current evacuation: 212/470, Historical best evacuation: 227, Evacuation rate: 45.11%, Best evacuation rate: 48.30%, Average evacuation rate: 41.80%
+Episode 2130, Average score: 444.27, Best score: 916.00, Epsilon: 0.119, Current evacuation: 204/470, Historical best evacuation: 227, Evacuation rate: 43.40%, Best evacuation rate: 48.30%, Average evacuation rate: 41.81%
+Episode 2140, Average score: 444.44, Best score: 916.00, Epsilon: 0.117, Current evacuation: 192/470, Historical best evacuation: 227, Evacuation rate: 40.85%, Best evacuation rate: 48.30%, Average evacuation rate: 41.96%
+Episode 2150, Average score: 431.67, Best score: 916.00, Epsilon: 0.116, Current evacuation: 202/470, Historical best evacuation: 227, Evacuation rate: 42.98%, Best evacuation rate: 48.30%, Average evacuation rate: 41.97%
+Episode 2160, Average score: 429.62, Best score: 916.00, Epsilon: 0.115, Current evacuation: 176/470, Historical best evacuation: 227, Evacuation rate: 37.45%, Best evacuation rate: 48.30%, Average evacuation rate: 41.80%
+Episode 2170, Average score: 452.19, Best score: 916.00, Epsilon: 0.114, Current evacuation: 200/470, Historical best evacuation: 227, Evacuation rate: 42.55%, Best evacuation rate: 48.30%, Average evacuation rate: 41.89%
+Episode 2180, Average score: 494.93, Best score: 916.00, Epsilon: 0.113, Current evacuation: 188/470, Historical best evacuation: 227, Evacuation rate: 40.00%, Best evacuation rate: 48.30%, Average evacuation rate: 42.23%
+Episode 2190, Average score: 498.68, Best score: 916.00, Epsilon: 0.112, Current evacuation: 201/470, Historical best evacuation: 227, Evacuation rate: 42.77%, Best evacuation rate: 48.30%, Average evacuation rate: 42.39%
+Episode 2200, Average score: 497.17, Best score: 916.00, Epsilon: 0.111, Current evacuation: 199/470, Historical best evacuation: 227, Evacuation rate: 42.34%, Best evacuation rate: 48.30%, Average evacuation rate: 42.29%
+Episode 2210, Average score: 494.43, Best score: 916.00, Epsilon: 0.109, Current evacuation: 178/470, Historical best evacuation: 227, Evacuation rate: 37.87%, Best evacuation rate: 48.30%, Average evacuation rate: 42.13%
+Episode 2220, Average score: 494.88, Best score: 916.00, Epsilon: 0.108, Current evacuation: 195/470, Historical best evacuation: 227, Evacuation rate: 41.49%, Best evacuation rate: 48.30%, Average evacuation rate: 42.06%
+Episode 2230, Average score: 478.07, Best score: 916.00, Epsilon: 0.107, Current evacuation: 177/470, Historical best evacuation: 227, Evacuation rate: 37.66%, Best evacuation rate: 48.30%, Average evacuation rate: 41.91%
+Episode 2240, Average score: 455.94, Best score: 916.00, Epsilon: 0.106, Current evacuation: 189/470, Historical best evacuation: 227, Evacuation rate: 40.21%, Best evacuation rate: 48.30%, Average evacuation rate: 41.70%
+Episode 2250, Average score: 444.81, Best score: 916.00, Epsilon: 0.105, Current evacuation: 163/470, Historical best evacuation: 227, Evacuation rate: 34.68%, Best evacuation rate: 48.30%, Average evacuation rate: 41.24%
+Episode 2260, Average score: 411.42, Best score: 916.00, Epsilon: 0.104, Current evacuation: 187/470, Historical best evacuation: 227, Evacuation rate: 39.79%, Best evacuation rate: 48.30%, Average evacuation rate: 41.04%
+Episode 2270, Average score: 403.78, Best score: 916.00, Epsilon: 0.103, Current evacuation: 210/470, Historical best evacuation: 227, Evacuation rate: 44.68%, Best evacuation rate: 48.30%, Average evacuation rate: 40.90%
+Episode 2280, Average score: 403.28, Best score: 916.00, Epsilon: 0.102, Current evacuation: 204/470, Historical best evacuation: 227, Evacuation rate: 43.40%, Best evacuation rate: 48.30%, Average evacuation rate: 40.82%
+Episode 2290, Average score: 393.37, Best score: 916.00, Epsilon: 0.101, Current evacuation: 169/470, Historical best evacuation: 227, Evacuation rate: 35.96%, Best evacuation rate: 48.30%, Average evacuation rate: 40.51%
+Episode 2300, Average score: 396.94, Best score: 916.00, Epsilon: 0.100, Current evacuation: 175/470, Historical best evacuation: 227, Evacuation rate: 37.23%, Best evacuation rate: 48.30%, Average evacuation rate: 40.46%
+Episode 2310, Average score: 380.41, Best score: 916.00, Epsilon: 0.099, Current evacuation: 199/470, Historical best evacuation: 227, Evacuation rate: 42.34%, Best evacuation rate: 48.30%, Average evacuation rate: 40.32%
+Episode 2320, Average score: 378.40, Best score: 916.00, Epsilon: 0.098, Current evacuation: 215/470, Historical best evacuation: 227, Evacuation rate: 45.74%, Best evacuation rate: 48.30%, Average evacuation rate: 40.43%
+Episode 2330, Average score: 394.59, Best score: 916.00, Epsilon: 0.097, Current evacuation: 204/470, Historical best evacuation: 227, Evacuation rate: 43.40%, Best evacuation rate: 48.30%, Average evacuation rate: 40.44%
+Episode 2340, Average score: 410.72, Best score: 916.00, Epsilon: 0.096, Current evacuation: 194/470, Historical best evacuation: 227, Evacuation rate: 41.28%, Best evacuation rate: 48.30%, Average evacuation rate: 40.64%
+Episode 2350, Average score: 431.94, Best score: 916.00, Epsilon: 0.095, Current evacuation: 196/470, Historical best evacuation: 227, Evacuation rate: 41.70%, Best evacuation rate: 48.30%, Average evacuation rate: 41.06%
+Episode 2360, Average score: 454.84, Best score: 916.00, Epsilon: 0.094, Current evacuation: 187/470, Historical best evacuation: 227, Evacuation rate: 39.79%, Best evacuation rate: 48.30%, Average evacuation rate: 41.36%
+
+Episode 2363: New best model! Evacuation rate: 48.72%, Evacuated: 229/470
+Episode 2370, Average score: 474.76, Best score: 1117.00, Epsilon: 0.093, Current evacuation: 210/470, Historical best evacuation: 229, Evacuation rate: 44.68%, Best evacuation rate: 48.72%, Average evacuation rate: 41.70%
+Episode 2380, Average score: 447.81, Best score: 1117.00, Epsilon: 0.092, Current evacuation: 205/470, Historical best evacuation: 229, Evacuation rate: 43.62%, Best evacuation rate: 48.72%, Average evacuation rate: 41.46%
+Episode 2390, Average score: 451.59, Best score: 1117.00, Epsilon: 0.091, Current evacuation: 177/470, Historical best evacuation: 229, Evacuation rate: 37.66%, Best evacuation rate: 48.72%, Average evacuation rate: 41.34%
+Episode 2400, Average score: 436.17, Best score: 1117.00, Epsilon: 0.091, Current evacuation: 185/470, Historical best evacuation: 229, Evacuation rate: 39.36%, Best evacuation rate: 48.72%, Average evacuation rate: 41.15%
+Episode 2410, Average score: 464.53, Best score: 1117.00, Epsilon: 0.090, Current evacuation: 187/470, Historical best evacuation: 229, Evacuation rate: 39.79%, Best evacuation rate: 48.72%, Average evacuation rate: 41.45%
+Episode 2420, Average score: 455.93, Best score: 1117.00, Epsilon: 0.089, Current evacuation: 205/470, Historical best evacuation: 229, Evacuation rate: 43.62%, Best evacuation rate: 48.72%, Average evacuation rate: 41.28%
+Episode 2430, Average score: 444.30, Best score: 1117.00, Epsilon: 0.088, Current evacuation: 170/470, Historical best evacuation: 229, Evacuation rate: 36.17%, Best evacuation rate: 48.72%, Average evacuation rate: 41.20%
+Episode 2440, Average score: 444.45, Best score: 1117.00, Epsilon: 0.087, Current evacuation: 182/470, Historical best evacuation: 229, Evacuation rate: 38.72%, Best evacuation rate: 48.72%, Average evacuation rate: 41.14%
+Episode 2450, Average score: 455.68, Best score: 1117.00, Epsilon: 0.086, Current evacuation: 212/470, Historical best evacuation: 229, Evacuation rate: 45.11%, Best evacuation rate: 48.72%, Average evacuation rate: 41.14%
+Episode 2460, Average score: 473.42, Best score: 1117.00, Epsilon: 0.085, Current evacuation: 194/470, Historical best evacuation: 229, Evacuation rate: 41.28%, Best evacuation rate: 48.72%, Average evacuation rate: 41.10%
+Episode 2470, Average score: 445.04, Best score: 1117.00, Epsilon: 0.084, Current evacuation: 165/470, Historical best evacuation: 229, Evacuation rate: 35.11%, Best evacuation rate: 48.72%, Average evacuation rate: 40.58%
+Episode 2480, Average score: 450.83, Best score: 1117.00, Epsilon: 0.084, Current evacuation: 184/470, Historical best evacuation: 229, Evacuation rate: 39.15%, Best evacuation rate: 48.72%, Average evacuation rate: 40.37%
+Episode 2490, Average score: 436.47, Best score: 1117.00, Epsilon: 0.083, Current evacuation: 176/470, Historical best evacuation: 229, Evacuation rate: 37.45%, Best evacuation rate: 48.72%, Average evacuation rate: 40.23%
+Episode 2500, Average score: 447.24, Best score: 1117.00, Epsilon: 0.082, Current evacuation: 177/470, Historical best evacuation: 229, Evacuation rate: 37.66%, Best evacuation rate: 48.72%, Average evacuation rate: 40.38%
+Episode 2510, Average score: 437.41, Best score: 1117.00, Epsilon: 0.081, Current evacuation: 179/470, Historical best evacuation: 229, Evacuation rate: 38.09%, Best evacuation rate: 48.72%, Average evacuation rate: 40.33%
+Episode 2520, Average score: 439.62, Best score: 1117.00, Epsilon: 0.080, Current evacuation: 194/470, Historical best evacuation: 229, Evacuation rate: 41.28%, Best evacuation rate: 48.72%, Average evacuation rate: 40.33%
+Episode 2530, Average score: 446.18, Best score: 1117.00, Epsilon: 0.079, Current evacuation: 192/470, Historical best evacuation: 229, Evacuation rate: 40.85%, Best evacuation rate: 48.72%, Average evacuation rate: 40.24%
+Episode 2540, Average score: 429.56, Best score: 1117.00, Epsilon: 0.079, Current evacuation: 177/470, Historical best evacuation: 229, Evacuation rate: 37.66%, Best evacuation rate: 48.72%, Average evacuation rate: 39.90%
+Episode 2550, Average score: 378.59, Best score: 1117.00, Epsilon: 0.078, Current evacuation: 183/470, Historical best evacuation: 229, Evacuation rate: 38.94%, Best evacuation rate: 48.72%, Average evacuation rate: 39.26%
+Episode 2560, Average score: 369.46, Best score: 1117.00, Epsilon: 0.077, Current evacuation: 191/470, Historical best evacuation: 229, Evacuation rate: 40.64%, Best evacuation rate: 48.72%, Average evacuation rate: 39.16%
+Episode 2570, Average score: 381.57, Best score: 1117.00, Epsilon: 0.076, Current evacuation: 167/470, Historical best evacuation: 229, Evacuation rate: 35.53%, Best evacuation rate: 48.72%, Average evacuation rate: 39.20%
+Episode 2580, Average score: 356.84, Best score: 1117.00, Epsilon: 0.076, Current evacuation: 186/470, Historical best evacuation: 229, Evacuation rate: 39.57%, Best evacuation rate: 48.72%, Average evacuation rate: 38.99%
+Episode 2590, Average score: 369.71, Best score: 1117.00, Epsilon: 0.075, Current evacuation: 185/470, Historical best evacuation: 229, Evacuation rate: 39.36%, Best evacuation rate: 48.72%, Average evacuation rate: 39.18%
+Episode 2600, Average score: 370.79, Best score: 1117.00, Epsilon: 0.074, Current evacuation: 194/470, Historical best evacuation: 229, Evacuation rate: 41.28%, Best evacuation rate: 48.72%, Average evacuation rate: 39.31%
+Episode 2610, Average score: 359.47, Best score: 1117.00, Epsilon: 0.073, Current evacuation: 191/470, Historical best evacuation: 229, Evacuation rate: 40.64%, Best evacuation rate: 48.72%, Average evacuation rate: 39.10%
+Episode 2620, Average score: 349.03, Best score: 1117.00, Epsilon: 0.073, Current evacuation: 177/470, Historical best evacuation: 229, Evacuation rate: 37.66%, Best evacuation rate: 48.72%, Average evacuation rate: 38.83%
+Episode 2630, Average score: 326.37, Best score: 1117.00, Epsilon: 0.072, Current evacuation: 179/470, Historical best evacuation: 229, Evacuation rate: 38.09%, Best evacuation rate: 48.72%, Average evacuation rate: 38.54%
+Episode 2640, Average score: 342.20, Best score: 1117.00, Epsilon: 0.071, Current evacuation: 177/470, Historical best evacuation: 229, Evacuation rate: 37.66%, Best evacuation rate: 48.72%, Average evacuation rate: 38.66%
+Episode 2650, Average score: 371.70, Best score: 1117.00, Epsilon: 0.070, Current evacuation: 181/470, Historical best evacuation: 229, Evacuation rate: 38.51%, Best evacuation rate: 48.72%, Average evacuation rate: 38.93%
+Episode 2660, Average score: 359.22, Best score: 1117.00, Epsilon: 0.070, Current evacuation: 184/470, Historical best evacuation: 229, Evacuation rate: 39.15%, Best evacuation rate: 48.72%, Average evacuation rate: 38.79%
+Episode 2670, Average score: 356.26, Best score: 1117.00, Epsilon: 0.069, Current evacuation: 198/470, Historical best evacuation: 229, Evacuation rate: 42.13%, Best evacuation rate: 48.72%, Average evacuation rate: 38.80%
+Episode 2680, Average score: 411.11, Best score: 1117.00, Epsilon: 0.068, Current evacuation: 199/470, Historical best evacuation: 229, Evacuation rate: 42.34%, Best evacuation rate: 48.72%, Average evacuation rate: 39.38%
+Episode 2690, Average score: 426.13, Best score: 1117.00, Epsilon: 0.068, Current evacuation: 187/470, Historical best evacuation: 229, Evacuation rate: 39.79%, Best evacuation rate: 48.72%, Average evacuation rate: 39.69%
+Episode 2700, Average score: 423.06, Best score: 1117.00, Epsilon: 0.067, Current evacuation: 186/470, Historical best evacuation: 229, Evacuation rate: 39.57%, Best evacuation rate: 48.72%, Average evacuation rate: 39.56%
+Episode 2710, Average score: 430.05, Best score: 1117.00, Epsilon: 0.066, Current evacuation: 188/470, Historical best evacuation: 229, Evacuation rate: 40.00%, Best evacuation rate: 48.72%, Average evacuation rate: 39.60%
+Episode 2720, Average score: 446.16, Best score: 1117.00, Epsilon: 0.066, Current evacuation: 185/470, Historical best evacuation: 229, Evacuation rate: 39.36%, Best evacuation rate: 48.72%, Average evacuation rate: 40.01%
+Episode 2730, Average score: 465.81, Best score: 1117.00, Epsilon: 0.065, Current evacuation: 191/470, Historical best evacuation: 229, Evacuation rate: 40.64%, Best evacuation rate: 48.72%, Average evacuation rate: 40.39%
+Episode 2740, Average score: 461.26, Best score: 1117.00, Epsilon: 0.064, Current evacuation: 184/470, Historical best evacuation: 229, Evacuation rate: 39.15%, Best evacuation rate: 48.72%, Average evacuation rate: 40.30%
+Episode 2750, Average score: 457.38, Best score: 1117.00, Epsilon: 0.064, Current evacuation: 183/470, Historical best evacuation: 229, Evacuation rate: 38.94%, Best evacuation rate: 48.72%, Average evacuation rate: 40.32%
+Episode 2760, Average score: 488.06, Best score: 1117.00, Epsilon: 0.063, Current evacuation: 181/470, Historical best evacuation: 229, Evacuation rate: 38.51%, Best evacuation rate: 48.72%, Average evacuation rate: 40.47%
+Episode 2770, Average score: 494.87, Best score: 1117.00, Epsilon: 0.063, Current evacuation: 196/470, Historical best evacuation: 229, Evacuation rate: 41.70%, Best evacuation rate: 48.72%, Average evacuation rate: 40.66%
+Episode 2780, Average score: 462.13, Best score: 1117.00, Epsilon: 0.062, Current evacuation: 194/470, Historical best evacuation: 229, Evacuation rate: 41.28%, Best evacuation rate: 48.72%, Average evacuation rate: 40.39%
+Episode 2790, Average score: 446.41, Best score: 1117.00, Epsilon: 0.061, Current evacuation: 188/470, Historical best evacuation: 229, Evacuation rate: 40.00%, Best evacuation rate: 48.72%, Average evacuation rate: 40.16%
+Episode 2800, Average score: 451.96, Best score: 1117.00, Epsilon: 0.061, Current evacuation: 197/470, Historical best evacuation: 229, Evacuation rate: 41.91%, Best evacuation rate: 48.72%, Average evacuation rate: 40.19%
+Episode 2810, Average score: 455.84, Best score: 1117.00, Epsilon: 0.060, Current evacuation: 184/470, Historical best evacuation: 229, Evacuation rate: 39.15%, Best evacuation rate: 48.72%, Average evacuation rate: 40.12%
+Episode 2820, Average score: 454.65, Best score: 1117.00, Epsilon: 0.059, Current evacuation: 198/470, Historical best evacuation: 229, Evacuation rate: 42.13%, Best evacuation rate: 48.72%, Average evacuation rate: 39.97%
+Episode 2830, Average score: 477.53, Best score: 1117.00, Epsilon: 0.059, Current evacuation: 192/470, Historical best evacuation: 229, Evacuation rate: 40.85%, Best evacuation rate: 48.72%, Average evacuation rate: 39.91%
+Episode 2840, Average score: 483.12, Best score: 1117.00, Epsilon: 0.058, Current evacuation: 181/470, Historical best evacuation: 229, Evacuation rate: 38.51%, Best evacuation rate: 48.72%, Average evacuation rate: 39.91%
+Episode 2850, Average score: 490.87, Best score: 1117.00, Epsilon: 0.058, Current evacuation: 178/470, Historical best evacuation: 229, Evacuation rate: 37.87%, Best evacuation rate: 48.72%, Average evacuation rate: 39.95%
+Episode 2860, Average score: 488.67, Best score: 1117.00, Epsilon: 0.057, Current evacuation: 150/470, Historical best evacuation: 229, Evacuation rate: 31.91%, Best evacuation rate: 48.72%, Average evacuation rate: 39.97%
+Episode 2870, Average score: 441.90, Best score: 1117.00, Epsilon: 0.057, Current evacuation: 171/470, Historical best evacuation: 229, Evacuation rate: 36.38%, Best evacuation rate: 48.72%, Average evacuation rate: 39.49%
+Episode 2880, Average score: 384.25, Best score: 1117.00, Epsilon: 0.056, Current evacuation: 110/470, Historical best evacuation: 229, Evacuation rate: 23.40%, Best evacuation rate: 48.72%, Average evacuation rate: 38.63%
+Episode 2890, Average score: 323.40, Best score: 1117.00, Epsilon: 0.055, Current evacuation: 190/470, Historical best evacuation: 229, Evacuation rate: 40.43%, Best evacuation rate: 48.72%, Average evacuation rate: 37.54%
+Episode 2900, Average score: 350.71, Best score: 1117.00, Epsilon: 0.055, Current evacuation: 199/470, Historical best evacuation: 229, Evacuation rate: 42.34%, Best evacuation rate: 48.72%, Average evacuation rate: 37.69%
+Episode 2910, Average score: 372.64, Best score: 1117.00, Epsilon: 0.054, Current evacuation: 185/470, Historical best evacuation: 229, Evacuation rate: 39.36%, Best evacuation rate: 48.72%, Average evacuation rate: 37.86%
+Episode 2920, Average score: 357.33, Best score: 1117.00, Epsilon: 0.054, Current evacuation: 172/470, Historical best evacuation: 229, Evacuation rate: 36.60%, Best evacuation rate: 48.72%, Average evacuation rate: 37.60%
+Episode 2930, Average score: 336.62, Best score: 1117.00, Epsilon: 0.053, Current evacuation: 206/470, Historical best evacuation: 229, Evacuation rate: 43.83%, Best evacuation rate: 48.72%, Average evacuation rate: 37.55%
+Episode 2940, Average score: 325.64, Best score: 1117.00, Epsilon: 0.053, Current evacuation: 195/470, Historical best evacuation: 229, Evacuation rate: 41.49%, Best evacuation rate: 48.72%, Average evacuation rate: 37.57%
+Episode 2950, Average score: 346.14, Best score: 1117.00, Epsilon: 0.052, Current evacuation: 207/470, Historical best evacuation: 229, Evacuation rate: 44.04%, Best evacuation rate: 48.72%, Average evacuation rate: 37.78%
+Episode 2960, Average score: 362.71, Best score: 1117.00, Epsilon: 0.052, Current evacuation: 210/470, Historical best evacuation: 229, Evacuation rate: 44.68%, Best evacuation rate: 48.72%, Average evacuation rate: 38.03%
+Episode 2970, Average score: 416.91, Best score: 1117.00, Epsilon: 0.051, Current evacuation: 193/470, Historical best evacuation: 229, Evacuation rate: 41.06%, Best evacuation rate: 48.72%, Average evacuation rate: 38.47%
+Episode 2980, Average score: 482.68, Best score: 1117.00, Epsilon: 0.051, Current evacuation: 202/470, Historical best evacuation: 229, Evacuation rate: 42.98%, Best evacuation rate: 48.72%, Average evacuation rate: 39.39%
+Episode 2990, Average score: 563.86, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 187/470, Historical best evacuation: 229, Evacuation rate: 39.79%, Best evacuation rate: 48.72%, Average evacuation rate: 40.66%
+Episode 3000, Average score: 526.22, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 192/470, Historical best evacuation: 229, Evacuation rate: 40.85%, Best evacuation rate: 48.72%, Average evacuation rate: 40.37%
+Episode 3010, Average score: 472.50, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 165/470, Historical best evacuation: 229, Evacuation rate: 35.11%, Best evacuation rate: 48.72%, Average evacuation rate: 39.98%
+Episode 3020, Average score: 418.87, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 175/470, Historical best evacuation: 229, Evacuation rate: 37.23%, Best evacuation rate: 48.72%, Average evacuation rate: 39.59%
+Episode 3030, Average score: 415.05, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 175/470, Historical best evacuation: 229, Evacuation rate: 37.23%, Best evacuation rate: 48.72%, Average evacuation rate: 39.51%
+Episode 3040, Average score: 445.30, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 198/470, Historical best evacuation: 229, Evacuation rate: 42.13%, Best evacuation rate: 48.72%, Average evacuation rate: 39.77%
+Episode 3050, Average score: 424.41, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 199/470, Historical best evacuation: 229, Evacuation rate: 42.34%, Best evacuation rate: 48.72%, Average evacuation rate: 39.64%
+Episode 3060, Average score: 410.71, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 183/470, Historical best evacuation: 229, Evacuation rate: 38.94%, Best evacuation rate: 48.72%, Average evacuation rate: 39.50%
+Episode 3070, Average score: 405.95, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 196/470, Historical best evacuation: 229, Evacuation rate: 41.70%, Best evacuation rate: 48.72%, Average evacuation rate: 39.59%
+Episode 3080, Average score: 417.94, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 195/470, Historical best evacuation: 229, Evacuation rate: 41.49%, Best evacuation rate: 48.72%, Average evacuation rate: 39.76%
+Episode 3090, Average score: 385.79, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 188/470, Historical best evacuation: 229, Evacuation rate: 40.00%, Best evacuation rate: 48.72%, Average evacuation rate: 39.31%
+Episode 3100, Average score: 382.89, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 179/470, Historical best evacuation: 229, Evacuation rate: 38.09%, Best evacuation rate: 48.72%, Average evacuation rate: 39.27%
+Episode 3110, Average score: 436.24, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 183/470, Historical best evacuation: 229, Evacuation rate: 38.94%, Best evacuation rate: 48.72%, Average evacuation rate: 39.83%
+Episode 3120, Average score: 497.31, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 188/470, Historical best evacuation: 229, Evacuation rate: 40.00%, Best evacuation rate: 48.72%, Average evacuation rate: 40.55%
+Episode 3130, Average score: 514.52, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 206/470, Historical best evacuation: 229, Evacuation rate: 43.83%, Best evacuation rate: 48.72%, Average evacuation rate: 40.84%
+Episode 3140, Average score: 501.66, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 195/470, Historical best evacuation: 229, Evacuation rate: 41.49%, Best evacuation rate: 48.72%, Average evacuation rate: 40.74%
+Episode 3150, Average score: 520.38, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 200/470, Historical best evacuation: 229, Evacuation rate: 42.55%, Best evacuation rate: 48.72%, Average evacuation rate: 40.92%
+Episode 3160, Average score: 518.17, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 191/470, Historical best evacuation: 229, Evacuation rate: 40.64%, Best evacuation rate: 48.72%, Average evacuation rate: 40.91%
+Episode 3170, Average score: 508.62, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 153/470, Historical best evacuation: 229, Evacuation rate: 32.55%, Best evacuation rate: 48.72%, Average evacuation rate: 40.57%
+Episode 3180, Average score: 483.36, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 183/470, Historical best evacuation: 229, Evacuation rate: 38.94%, Best evacuation rate: 48.72%, Average evacuation rate: 40.16%
+Episode 3190, Average score: 489.59, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 167/470, Historical best evacuation: 229, Evacuation rate: 35.53%, Best evacuation rate: 48.72%, Average evacuation rate: 40.22%
+Episode 3200, Average score: 489.08, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 182/470, Historical best evacuation: 229, Evacuation rate: 38.72%, Best evacuation rate: 48.72%, Average evacuation rate: 40.04%
+Episode 3210, Average score: 461.32, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 185/470, Historical best evacuation: 229, Evacuation rate: 39.36%, Best evacuation rate: 48.72%, Average evacuation rate: 39.63%
+Episode 3220, Average score: 483.15, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 187/470, Historical best evacuation: 229, Evacuation rate: 39.79%, Best evacuation rate: 48.72%, Average evacuation rate: 39.72%
+Episode 3230, Average score: 478.67, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 199/470, Historical best evacuation: 229, Evacuation rate: 42.34%, Best evacuation rate: 48.72%, Average evacuation rate: 39.56%
+Episode 3240, Average score: 485.39, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 176/470, Historical best evacuation: 229, Evacuation rate: 37.45%, Best evacuation rate: 48.72%, Average evacuation rate: 39.54%
+Episode 3250, Average score: 457.47, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 189/470, Historical best evacuation: 229, Evacuation rate: 40.21%, Best evacuation rate: 48.72%, Average evacuation rate: 39.25%
+Episode 3260, Average score: 431.97, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 176/470, Historical best evacuation: 229, Evacuation rate: 37.45%, Best evacuation rate: 48.72%, Average evacuation rate: 39.06%
+Episode 3270, Average score: 424.54, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 181/470, Historical best evacuation: 229, Evacuation rate: 38.51%, Best evacuation rate: 48.72%, Average evacuation rate: 39.17%
+Episode 3280, Average score: 410.92, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 208/470, Historical best evacuation: 229, Evacuation rate: 44.26%, Best evacuation rate: 48.72%, Average evacuation rate: 39.27%
+Episode 3290, Average score: 400.46, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 160/470, Historical best evacuation: 229, Evacuation rate: 34.04%, Best evacuation rate: 48.72%, Average evacuation rate: 39.27%
+Episode 3300, Average score: 355.40, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 160/470, Historical best evacuation: 229, Evacuation rate: 34.04%, Best evacuation rate: 48.72%, Average evacuation rate: 38.81%
+Episode 3310, Average score: 291.95, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 150/470, Historical best evacuation: 229, Evacuation rate: 31.91%, Best evacuation rate: 48.72%, Average evacuation rate: 37.85%
+Episode 3320, Average score: 273.52, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 178/470, Historical best evacuation: 229, Evacuation rate: 37.87%, Best evacuation rate: 48.72%, Average evacuation rate: 37.29%
+Episode 3330, Average score: 268.73, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 187/470, Historical best evacuation: 229, Evacuation rate: 39.79%, Best evacuation rate: 48.72%, Average evacuation rate: 37.13%
+Episode 3340, Average score: 263.53, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 188/470, Historical best evacuation: 229, Evacuation rate: 40.00%, Best evacuation rate: 48.72%, Average evacuation rate: 37.21%
+Episode 3350, Average score: 272.10, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 181/470, Historical best evacuation: 229, Evacuation rate: 38.51%, Best evacuation rate: 48.72%, Average evacuation rate: 37.39%
+Episode 3360, Average score: 274.90, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 209/470, Historical best evacuation: 229, Evacuation rate: 44.47%, Best evacuation rate: 48.72%, Average evacuation rate: 37.52%
+Episode 3370, Average score: 289.59, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 179/470, Historical best evacuation: 229, Evacuation rate: 38.09%, Best evacuation rate: 48.72%, Average evacuation rate: 37.73%
+Episode 3380, Average score: 308.96, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 151/470, Historical best evacuation: 229, Evacuation rate: 32.13%, Best evacuation rate: 48.72%, Average evacuation rate: 37.76%
+Episode 3390, Average score: 324.21, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 187/470, Historical best evacuation: 229, Evacuation rate: 39.79%, Best evacuation rate: 48.72%, Average evacuation rate: 37.85%
+Episode 3400, Average score: 394.17, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 204/470, Historical best evacuation: 229, Evacuation rate: 43.40%, Best evacuation rate: 48.72%, Average evacuation rate: 38.80%
+Episode 3410, Average score: 469.83, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 213/470, Historical best evacuation: 229, Evacuation rate: 45.32%, Best evacuation rate: 48.72%, Average evacuation rate: 40.05%
+Episode 3420, Average score: 472.03, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 187/470, Historical best evacuation: 229, Evacuation rate: 39.79%, Best evacuation rate: 48.72%, Average evacuation rate: 40.49%
+Episode 3430, Average score: 457.33, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 200/470, Historical best evacuation: 229, Evacuation rate: 42.55%, Best evacuation rate: 48.72%, Average evacuation rate: 40.56%
+Episode 3440, Average score: 427.03, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 182/470, Historical best evacuation: 229, Evacuation rate: 38.72%, Best evacuation rate: 48.72%, Average evacuation rate: 40.23%
+Episode 3450, Average score: 424.70, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 180/470, Historical best evacuation: 229, Evacuation rate: 38.30%, Best evacuation rate: 48.72%, Average evacuation rate: 40.15%
+Episode 3460, Average score: 435.19, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 191/470, Historical best evacuation: 229, Evacuation rate: 40.64%, Best evacuation rate: 48.72%, Average evacuation rate: 40.11%
+Episode 3470, Average score: 411.43, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 193/470, Historical best evacuation: 229, Evacuation rate: 41.06%, Best evacuation rate: 48.72%, Average evacuation rate: 39.92%
+Episode 3480, Average score: 413.04, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 185/470, Historical best evacuation: 229, Evacuation rate: 39.36%, Best evacuation rate: 48.72%, Average evacuation rate: 40.01%
+Episode 3490, Average score: 418.06, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 196/470, Historical best evacuation: 229, Evacuation rate: 41.70%, Best evacuation rate: 48.72%, Average evacuation rate: 40.04%
+Episode 3500, Average score: 418.28, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 199/470, Historical best evacuation: 229, Evacuation rate: 42.34%, Best evacuation rate: 48.72%, Average evacuation rate: 39.91%
+Episode 3510, Average score: 408.73, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 171/470, Historical best evacuation: 229, Evacuation rate: 36.38%, Best evacuation rate: 48.72%, Average evacuation rate: 39.74%
+Episode 3520, Average score: 425.46, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 185/470, Historical best evacuation: 229, Evacuation rate: 39.36%, Best evacuation rate: 48.72%, Average evacuation rate: 39.84%
+Episode 3530, Average score: 442.68, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 151/470, Historical best evacuation: 229, Evacuation rate: 32.13%, Best evacuation rate: 48.72%, Average evacuation rate: 39.91%
+Episode 3540, Average score: 453.93, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 158/470, Historical best evacuation: 229, Evacuation rate: 33.62%, Best evacuation rate: 48.72%, Average evacuation rate: 39.94%
+Episode 3550, Average score: 458.44, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 198/470, Historical best evacuation: 229, Evacuation rate: 42.13%, Best evacuation rate: 48.72%, Average evacuation rate: 39.92%
+Episode 3560, Average score: 454.83, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 204/470, Historical best evacuation: 229, Evacuation rate: 43.40%, Best evacuation rate: 48.72%, Average evacuation rate: 39.87%
+Episode 3570, Average score: 469.29, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 191/470, Historical best evacuation: 229, Evacuation rate: 40.64%, Best evacuation rate: 48.72%, Average evacuation rate: 39.93%
+Episode 3580, Average score: 479.10, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 197/470, Historical best evacuation: 229, Evacuation rate: 41.91%, Best evacuation rate: 48.72%, Average evacuation rate: 39.88%
+Episode 3590, Average score: 477.10, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 193/470, Historical best evacuation: 229, Evacuation rate: 41.06%, Best evacuation rate: 48.72%, Average evacuation rate: 39.93%
+Episode 3600, Average score: 474.26, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 203/470, Historical best evacuation: 229, Evacuation rate: 43.19%, Best evacuation rate: 48.72%, Average evacuation rate: 40.05%
+Episode 3610, Average score: 457.79, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 166/470, Historical best evacuation: 229, Evacuation rate: 35.32%, Best evacuation rate: 48.72%, Average evacuation rate: 39.94%
+Episode 3620, Average score: 434.55, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 181/470, Historical best evacuation: 229, Evacuation rate: 38.51%, Best evacuation rate: 48.72%, Average evacuation rate: 39.69%
+Episode 3630, Average score: 405.66, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 198/470, Historical best evacuation: 229, Evacuation rate: 42.13%, Best evacuation rate: 48.72%, Average evacuation rate: 39.47%
+Episode 3640, Average score: 402.88, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 175/470, Historical best evacuation: 229, Evacuation rate: 37.23%, Best evacuation rate: 48.72%, Average evacuation rate: 39.50%
+Episode 3650, Average score: 374.80, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 166/470, Historical best evacuation: 229, Evacuation rate: 35.32%, Best evacuation rate: 48.72%, Average evacuation rate: 39.16%
+Episode 3660, Average score: 386.11, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 173/470, Historical best evacuation: 229, Evacuation rate: 36.81%, Best evacuation rate: 48.72%, Average evacuation rate: 39.21%
+Episode 3670, Average score: 375.88, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 205/470, Historical best evacuation: 229, Evacuation rate: 43.62%, Best evacuation rate: 48.72%, Average evacuation rate: 39.08%
+Episode 3680, Average score: 369.85, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 199/470, Historical best evacuation: 229, Evacuation rate: 42.34%, Best evacuation rate: 48.72%, Average evacuation rate: 39.11%
+Episode 3690, Average score: 381.75, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 199/470, Historical best evacuation: 229, Evacuation rate: 42.34%, Best evacuation rate: 48.72%, Average evacuation rate: 39.21%
+Episode 3700, Average score: 367.91, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 178/470, Historical best evacuation: 229, Evacuation rate: 37.87%, Best evacuation rate: 48.72%, Average evacuation rate: 39.04%
+Episode 3710, Average score: 334.41, Best score: 1117.00, Epsilon: 0.050, Current evacuation: 125/470, Historical best evacuation: 229, Evacuation rate: 26.60%, Best evacuation rate: 48.72%, Average evacuation rate: 38.08%
+
+Episode 3718: New best model! Evacuation rate: 53.19%, Evacuated: 250/470
+Episode 3720, Average score: 320.35, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 204/470, Historical best evacuation: 250, Evacuation rate: 43.40%, Best evacuation rate: 53.19%, Average evacuation rate: 37.95%
+Episode 3730, Average score: 361.42, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 197/470, Historical best evacuation: 250, Evacuation rate: 41.91%, Best evacuation rate: 53.19%, Average evacuation rate: 38.39%
+Episode 3740, Average score: 397.93, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 211/470, Historical best evacuation: 250, Evacuation rate: 44.89%, Best evacuation rate: 53.19%, Average evacuation rate: 38.87%
+Episode 3750, Average score: 439.71, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 187/470, Historical best evacuation: 250, Evacuation rate: 39.79%, Best evacuation rate: 53.19%, Average evacuation rate: 39.50%
+Episode 3760, Average score: 425.91, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 190/470, Historical best evacuation: 250, Evacuation rate: 40.43%, Best evacuation rate: 53.19%, Average evacuation rate: 39.56%
+Episode 3770, Average score: 426.42, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 180/470, Historical best evacuation: 250, Evacuation rate: 38.30%, Best evacuation rate: 53.19%, Average evacuation rate: 39.86%
+Episode 3780, Average score: 408.61, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 161/470, Historical best evacuation: 250, Evacuation rate: 34.26%, Best evacuation rate: 53.19%, Average evacuation rate: 39.83%
+Episode 3790, Average score: 400.35, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 185/470, Historical best evacuation: 250, Evacuation rate: 39.36%, Best evacuation rate: 53.19%, Average evacuation rate: 39.66%
+Episode 3800, Average score: 393.86, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 175/470, Historical best evacuation: 250, Evacuation rate: 37.23%, Best evacuation rate: 53.19%, Average evacuation rate: 39.47%
+Episode 3810, Average score: 451.10, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 189/470, Historical best evacuation: 250, Evacuation rate: 40.21%, Best evacuation rate: 53.19%, Average evacuation rate: 40.70%
+Episode 3820, Average score: 470.57, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 203/470, Historical best evacuation: 250, Evacuation rate: 43.19%, Best evacuation rate: 53.19%, Average evacuation rate: 41.11%
+Episode 3830, Average score: 460.57, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 198/470, Historical best evacuation: 250, Evacuation rate: 42.13%, Best evacuation rate: 53.19%, Average evacuation rate: 40.96%
+Episode 3840, Average score: 420.76, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 183/470, Historical best evacuation: 250, Evacuation rate: 38.94%, Best evacuation rate: 53.19%, Average evacuation rate: 40.54%
+Episode 3850, Average score: 388.76, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 178/470, Historical best evacuation: 250, Evacuation rate: 37.87%, Best evacuation rate: 53.19%, Average evacuation rate: 40.21%
+Episode 3860, Average score: 416.39, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 192/470, Historical best evacuation: 250, Evacuation rate: 40.85%, Best evacuation rate: 53.19%, Average evacuation rate: 40.34%
+Episode 3870, Average score: 455.95, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 178/470, Historical best evacuation: 250, Evacuation rate: 37.87%, Best evacuation rate: 53.19%, Average evacuation rate: 40.48%
+Episode 3880, Average score: 474.35, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 201/470, Historical best evacuation: 250, Evacuation rate: 42.77%, Best evacuation rate: 53.19%, Average evacuation rate: 40.48%
+Episode 3890, Average score: 473.18, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 202/470, Historical best evacuation: 250, Evacuation rate: 42.98%, Best evacuation rate: 53.19%, Average evacuation rate: 40.68%
+Episode 3900, Average score: 482.38, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 214/470, Historical best evacuation: 250, Evacuation rate: 45.53%, Best evacuation rate: 53.19%, Average evacuation rate: 41.07%
+Episode 3910, Average score: 468.40, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 205/470, Historical best evacuation: 250, Evacuation rate: 43.62%, Best evacuation rate: 53.19%, Average evacuation rate: 40.95%
+Episode 3920, Average score: 491.19, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 208/470, Historical best evacuation: 250, Evacuation rate: 44.26%, Best evacuation rate: 53.19%, Average evacuation rate: 41.06%
+Episode 3930, Average score: 485.71, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 205/470, Historical best evacuation: 250, Evacuation rate: 43.62%, Best evacuation rate: 53.19%, Average evacuation rate: 41.16%
+Episode 3940, Average score: 502.18, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 216/470, Historical best evacuation: 250, Evacuation rate: 45.96%, Best evacuation rate: 53.19%, Average evacuation rate: 41.44%
+Episode 3950, Average score: 511.54, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 203/470, Historical best evacuation: 250, Evacuation rate: 43.19%, Best evacuation rate: 53.19%, Average evacuation rate: 41.59%
+Episode 3960, Average score: 461.36, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 193/470, Historical best evacuation: 250, Evacuation rate: 41.06%, Best evacuation rate: 53.19%, Average evacuation rate: 41.25%
+Episode 3970, Average score: 424.47, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 181/470, Historical best evacuation: 250, Evacuation rate: 38.51%, Best evacuation rate: 53.19%, Average evacuation rate: 40.80%
+Episode 3980, Average score: 408.32, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 189/470, Historical best evacuation: 250, Evacuation rate: 40.21%, Best evacuation rate: 53.19%, Average evacuation rate: 40.72%
+Episode 3990, Average score: 425.80, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 186/470, Historical best evacuation: 250, Evacuation rate: 39.57%, Best evacuation rate: 53.19%, Average evacuation rate: 40.65%
+Episode 4000, Average score: 435.82, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 193/470, Historical best evacuation: 250, Evacuation rate: 41.06%, Best evacuation rate: 53.19%, Average evacuation rate: 40.65%
+Episode 4010, Average score: 451.75, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 190/470, Historical best evacuation: 250, Evacuation rate: 40.43%, Best evacuation rate: 53.19%, Average evacuation rate: 40.83%
+Episode 4020, Average score: 427.08, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 182/470, Historical best evacuation: 250, Evacuation rate: 38.72%, Best evacuation rate: 53.19%, Average evacuation rate: 40.58%
+Episode 4030, Average score: 448.40, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 201/470, Historical best evacuation: 250, Evacuation rate: 42.77%, Best evacuation rate: 53.19%, Average evacuation rate: 40.51%
+Episode 4040, Average score: 440.44, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 195/470, Historical best evacuation: 250, Evacuation rate: 41.49%, Best evacuation rate: 53.19%, Average evacuation rate: 40.38%
+Episode 4050, Average score: 411.39, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 182/470, Historical best evacuation: 250, Evacuation rate: 38.72%, Best evacuation rate: 53.19%, Average evacuation rate: 39.95%
+Episode 4060, Average score: 428.79, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 199/470, Historical best evacuation: 250, Evacuation rate: 42.34%, Best evacuation rate: 53.19%, Average evacuation rate: 39.87%
+Episode 4070, Average score: 438.77, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 198/470, Historical best evacuation: 250, Evacuation rate: 42.13%, Best evacuation rate: 53.19%, Average evacuation rate: 40.12%
+Episode 4080, Average score: 437.18, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 163/470, Historical best evacuation: 250, Evacuation rate: 34.68%, Best evacuation rate: 53.19%, Average evacuation rate: 40.09%
+Episode 4090, Average score: 398.23, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 197/470, Historical best evacuation: 250, Evacuation rate: 41.91%, Best evacuation rate: 53.19%, Average evacuation rate: 39.86%
+Episode 4100, Average score: 362.24, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 158/470, Historical best evacuation: 250, Evacuation rate: 33.62%, Best evacuation rate: 53.19%, Average evacuation rate: 39.40%
+Episode 4110, Average score: 326.16, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 177/470, Historical best evacuation: 250, Evacuation rate: 37.66%, Best evacuation rate: 53.19%, Average evacuation rate: 38.85%
+Episode 4120, Average score: 320.35, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 177/470, Historical best evacuation: 250, Evacuation rate: 37.66%, Best evacuation rate: 53.19%, Average evacuation rate: 38.66%
+Episode 4130, Average score: 292.56, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 162/470, Historical best evacuation: 250, Evacuation rate: 34.47%, Best evacuation rate: 53.19%, Average evacuation rate: 38.34%
+Episode 4140, Average score: 300.79, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 176/470, Historical best evacuation: 250, Evacuation rate: 37.45%, Best evacuation rate: 53.19%, Average evacuation rate: 38.03%
+Episode 4150, Average score: 325.91, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 174/470, Historical best evacuation: 250, Evacuation rate: 37.02%, Best evacuation rate: 53.19%, Average evacuation rate: 38.26%
+Episode 4160, Average score: 325.95, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 204/470, Historical best evacuation: 250, Evacuation rate: 43.40%, Best evacuation rate: 53.19%, Average evacuation rate: 38.25%
+Episode 4170, Average score: 313.44, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 169/470, Historical best evacuation: 250, Evacuation rate: 35.96%, Best evacuation rate: 53.19%, Average evacuation rate: 37.78%
+Episode 4180, Average score: 317.26, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 154/470, Historical best evacuation: 250, Evacuation rate: 32.77%, Best evacuation rate: 53.19%, Average evacuation rate: 37.76%
+Episode 4190, Average score: 321.55, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 189/470, Historical best evacuation: 250, Evacuation rate: 40.21%, Best evacuation rate: 53.19%, Average evacuation rate: 37.66%
+Episode 4200, Average score: 351.46, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 194/470, Historical best evacuation: 250, Evacuation rate: 41.28%, Best evacuation rate: 53.19%, Average evacuation rate: 37.75%
+Episode 4210, Average score: 364.91, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 216/470, Historical best evacuation: 250, Evacuation rate: 45.96%, Best evacuation rate: 53.19%, Average evacuation rate: 38.05%
+Episode 4220, Average score: 418.23, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 221/470, Historical best evacuation: 250, Evacuation rate: 47.02%, Best evacuation rate: 53.19%, Average evacuation rate: 38.66%
+Episode 4230, Average score: 441.17, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 168/470, Historical best evacuation: 250, Evacuation rate: 35.74%, Best evacuation rate: 53.19%, Average evacuation rate: 39.22%
+Episode 4240, Average score: 448.80, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 199/470, Historical best evacuation: 250, Evacuation rate: 42.34%, Best evacuation rate: 53.19%, Average evacuation rate: 39.63%
+Episode 4250, Average score: 312.74, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 87/470, Historical best evacuation: 250, Evacuation rate: 18.51%, Best evacuation rate: 53.19%, Average evacuation rate: 38.65%
+Episode 4260, Average score: 242.34, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 209/470, Historical best evacuation: 250, Evacuation rate: 44.47%, Best evacuation rate: 53.19%, Average evacuation rate: 37.99%
+Episode 4270, Average score: 259.00, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 187/470, Historical best evacuation: 250, Evacuation rate: 39.79%, Best evacuation rate: 53.19%, Average evacuation rate: 38.27%
+Episode 4280, Average score: 260.96, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 174/470, Historical best evacuation: 250, Evacuation rate: 37.02%, Best evacuation rate: 53.19%, Average evacuation rate: 38.32%
+Episode 4290, Average score: 292.83, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 174/470, Historical best evacuation: 250, Evacuation rate: 37.02%, Best evacuation rate: 53.19%, Average evacuation rate: 38.83%
+Episode 4300, Average score: 283.82, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 194/470, Historical best evacuation: 250, Evacuation rate: 41.28%, Best evacuation rate: 53.19%, Average evacuation rate: 38.95%
+Episode 4310, Average score: 276.99, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 178/470, Historical best evacuation: 250, Evacuation rate: 37.87%, Best evacuation rate: 53.19%, Average evacuation rate: 38.79%
+Episode 4320, Average score: 200.63, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 197/470, Historical best evacuation: 250, Evacuation rate: 41.91%, Best evacuation rate: 53.19%, Average evacuation rate: 38.09%
+Episode 4330, Average score: 174.25, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 227/470, Historical best evacuation: 250, Evacuation rate: 48.30%, Best evacuation rate: 53.19%, Average evacuation rate: 37.76%
+Episode 4340, Average score: 140.82, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 174/470, Historical best evacuation: 250, Evacuation rate: 37.02%, Best evacuation rate: 53.19%, Average evacuation rate: 37.50%
+Episode 4350, Average score: 267.40, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 198/470, Historical best evacuation: 250, Evacuation rate: 42.13%, Best evacuation rate: 53.19%, Average evacuation rate: 38.48%
+Episode 4360, Average score: 355.65, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 195/470, Historical best evacuation: 250, Evacuation rate: 41.49%, Best evacuation rate: 53.19%, Average evacuation rate: 39.49%
+Episode 4370, Average score: 330.24, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 187/470, Historical best evacuation: 250, Evacuation rate: 39.79%, Best evacuation rate: 53.19%, Average evacuation rate: 39.27%
+Episode 4380, Average score: 311.35, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 140/470, Historical best evacuation: 250, Evacuation rate: 29.79%, Best evacuation rate: 53.19%, Average evacuation rate: 39.02%
+Episode 4390, Average score: 296.74, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 183/470, Historical best evacuation: 250, Evacuation rate: 38.94%, Best evacuation rate: 53.19%, Average evacuation rate: 38.74%
+Episode 4400, Average score: 288.26, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 190/470, Historical best evacuation: 250, Evacuation rate: 40.43%, Best evacuation rate: 53.19%, Average evacuation rate: 38.68%
+Episode 4410, Average score: 283.80, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 160/470, Historical best evacuation: 250, Evacuation rate: 34.04%, Best evacuation rate: 53.19%, Average evacuation rate: 38.56%
+Episode 4420, Average score: 299.67, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 188/470, Historical best evacuation: 250, Evacuation rate: 40.00%, Best evacuation rate: 53.19%, Average evacuation rate: 38.54%
+Episode 4430, Average score: 288.63, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 187/470, Historical best evacuation: 250, Evacuation rate: 39.79%, Best evacuation rate: 53.19%, Average evacuation rate: 38.35%
+Episode 4440, Average score: 298.38, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 179/470, Historical best evacuation: 250, Evacuation rate: 38.09%, Best evacuation rate: 53.19%, Average evacuation rate: 38.42%
+Episode 4450, Average score: 272.83, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 149/470, Historical best evacuation: 250, Evacuation rate: 31.70%, Best evacuation rate: 53.19%, Average evacuation rate: 38.05%
+Episode 4460, Average score: 240.55, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 171/470, Historical best evacuation: 250, Evacuation rate: 36.38%, Best evacuation rate: 53.19%, Average evacuation rate: 37.62%
+Episode 4470, Average score: 226.34, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 206/470, Historical best evacuation: 250, Evacuation rate: 43.83%, Best evacuation rate: 53.19%, Average evacuation rate: 37.49%
+Episode 4480, Average score: 227.54, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 158/470, Historical best evacuation: 250, Evacuation rate: 33.62%, Best evacuation rate: 53.19%, Average evacuation rate: 37.53%
+Episode 4490, Average score: 233.56, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 179/470, Historical best evacuation: 250, Evacuation rate: 38.09%, Best evacuation rate: 53.19%, Average evacuation rate: 37.67%
+Episode 4500, Average score: 224.79, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 192/470, Historical best evacuation: 250, Evacuation rate: 40.85%, Best evacuation rate: 53.19%, Average evacuation rate: 37.66%
+Episode 4510, Average score: 219.33, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 209/470, Historical best evacuation: 250, Evacuation rate: 44.47%, Best evacuation rate: 53.19%, Average evacuation rate: 37.83%
+Episode 4520, Average score: 190.79, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 155/470, Historical best evacuation: 250, Evacuation rate: 32.98%, Best evacuation rate: 53.19%, Average evacuation rate: 37.74%
+Episode 4530, Average score: 132.38, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 175/470, Historical best evacuation: 250, Evacuation rate: 37.23%, Best evacuation rate: 53.19%, Average evacuation rate: 36.93%
+Episode 4540, Average score: 110.15, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 181/470, Historical best evacuation: 250, Evacuation rate: 38.51%, Best evacuation rate: 53.19%, Average evacuation rate: 36.30%
+Episode 4550, Average score: 131.24, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 171/470, Historical best evacuation: 250, Evacuation rate: 36.38%, Best evacuation rate: 53.19%, Average evacuation rate: 36.44%
+Episode 4560, Average score: 99.01, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 141/470, Historical best evacuation: 250, Evacuation rate: 30.00%, Best evacuation rate: 53.19%, Average evacuation rate: 36.01%
+Episode 4570, Average score: 105.45, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 187/470, Historical best evacuation: 250, Evacuation rate: 39.79%, Best evacuation rate: 53.19%, Average evacuation rate: 35.86%
+Episode 4580, Average score: 109.67, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 165/470, Historical best evacuation: 250, Evacuation rate: 35.11%, Best evacuation rate: 53.19%, Average evacuation rate: 35.62%
+Episode 4590, Average score: 76.93, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 181/470, Historical best evacuation: 250, Evacuation rate: 38.51%, Best evacuation rate: 53.19%, Average evacuation rate: 34.94%
+Episode 4600, Average score: 83.01, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 201/470, Historical best evacuation: 250, Evacuation rate: 42.77%, Best evacuation rate: 53.19%, Average evacuation rate: 34.59%
+Episode 4610, Average score: 81.78, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 184/470, Historical best evacuation: 250, Evacuation rate: 39.15%, Best evacuation rate: 53.19%, Average evacuation rate: 34.43%
+Episode 4620, Average score: 111.68, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 191/470, Historical best evacuation: 250, Evacuation rate: 40.64%, Best evacuation rate: 53.19%, Average evacuation rate: 34.62%
+Episode 4630, Average score: 183.57, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 184/470, Historical best evacuation: 250, Evacuation rate: 39.15%, Best evacuation rate: 53.19%, Average evacuation rate: 35.54%
+Episode 4640, Average score: 178.08, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 200/470, Historical best evacuation: 250, Evacuation rate: 42.55%, Best evacuation rate: 53.19%, Average evacuation rate: 35.88%
+Episode 4650, Average score: 178.95, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 198/470, Historical best evacuation: 250, Evacuation rate: 42.13%, Best evacuation rate: 53.19%, Average evacuation rate: 36.01%
+Episode 4660, Average score: 223.24, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 162/470, Historical best evacuation: 250, Evacuation rate: 34.47%, Best evacuation rate: 53.19%, Average evacuation rate: 36.60%
+Episode 4670, Average score: 206.51, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 166/470, Historical best evacuation: 250, Evacuation rate: 35.32%, Best evacuation rate: 53.19%, Average evacuation rate: 36.70%
+Episode 4680, Average score: 200.04, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 165/470, Historical best evacuation: 250, Evacuation rate: 35.11%, Best evacuation rate: 53.19%, Average evacuation rate: 36.85%
+Episode 4690, Average score: 207.74, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 157/470, Historical best evacuation: 250, Evacuation rate: 33.40%, Best evacuation rate: 53.19%, Average evacuation rate: 37.30%
+Episode 4700, Average score: 206.07, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 165/470, Historical best evacuation: 250, Evacuation rate: 35.11%, Best evacuation rate: 53.19%, Average evacuation rate: 37.39%
+Episode 4710, Average score: 199.05, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 162/470, Historical best evacuation: 250, Evacuation rate: 34.47%, Best evacuation rate: 53.19%, Average evacuation rate: 37.26%
+Episode 4720, Average score: 150.01, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 157/470, Historical best evacuation: 250, Evacuation rate: 33.40%, Best evacuation rate: 53.19%, Average evacuation rate: 36.69%
+Episode 4730, Average score: 134.42, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 173/470, Historical best evacuation: 250, Evacuation rate: 36.81%, Best evacuation rate: 53.19%, Average evacuation rate: 36.48%
+Episode 4740, Average score: 157.81, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 151/470, Historical best evacuation: 250, Evacuation rate: 32.13%, Best evacuation rate: 53.19%, Average evacuation rate: 36.48%
+Episode 4750, Average score: 165.67, Best score: 1419.00, Epsilon: 0.050, Current evacuation: 185/470, Historical best evacuation: 250, Evacuation rate: 39.36%, Best evacuation rate: 53.19%, Average evacuation rate: 36.67%

@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fire Simulation Results</title>
+    <meta charset="utf-8">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #ff6600; }
+        .params { background: #f0f0f0; padding: 15px; border-radius: 5px; margin: 20px 0; }
+        .preview-list { list-style: none; padding: 0; }
+        .preview-list li { 
+            display: inline-block; 
+            margin: 10px; 
+            padding: 10px; 
+            background: #fff; 
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .preview-list a { text-decoration: none; color: #0066cc; font-weight: bold; }
+        .stats-table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        .stats-table th, .stats-table td { 
+            border: 1px solid #ddd; 
+            padding: 8px; 
+            text-align: center; 
+        }
+        .stats-table th { background: #ff6600; color: white; }
+        .stats-table tr:nth-child(even) { background: #f9f9f9; }
+    </style>
+</head>
+<body>
+    <h1>Fire Spread Simulation Results</h1>
+    
+    <div class="params">
+        <h2>Simulation Parameters</h2>
+        <ul>
+            <li><b>Timesteps:</b> 5</li>
+            <li><b>Fire sources:</b> 2</li>
+            <li><b>Wind direction:</b> 90.0 degrees (0=North, 90=East, 180=South, 270=West)</li>
+            <li><b>Growth rate:</b> 15% per timestep</li>
+            <li><b>Data source:</b> preprocess_data</li>
+        </ul>
+    </div>
+    
+    <h2>Statistics</h2>
+    <table class="stats-table">
+        <tr>
+            <th>Timestep</th>
+            <th>Exposed Cells</th>
+            <th>Exposure Rate</th>
+            <th>Fire Area (sq m)</th>
+            <th>Avg Exposure</th>
+        </tr>
+        
+                <tr>
+                    <td>T0</td>
+                    <td>6/6</td>
+                    <td>100.0%</td>
+                    <td>2352411</td>
+                    <td>100.0%</td>
+                </tr>
+                
+
+                <tr>
+                    <td>T1</td>
+                    <td>6/6</td>
+                    <td>100.0%</td>
+                    <td>3218355</td>
+                    <td>100.0%</td>
+                </tr>
+                
+
+                <tr>
+                    <td>T2</td>
+                    <td>6/6</td>
+                    <td>100.0%</td>
+                    <td>4247249</td>
+                    <td>100.0%</td>
+                </tr>
+                
+
+                <tr>
+                    <td>T3</td>
+                    <td>6/6</td>
+                    <td>100.0%</td>
+                    <td>5484902</td>
+                    <td>100.0%</td>
+                </tr>
+                
+
+                <tr>
+                    <td>T4</td>
+                    <td>6/6</td>
+                    <td>100.0%</td>
+                    <td>6878905</td>
+                    <td>100.0%</td>
+                </tr>
+                
+    </table>
+    
+    <h2>Preview Maps</h2>
+    <ul class="preview-list">
+        <li><a href="fire_preview_t0.html" target="_blank">Timestep 0</a></li>
+<li><a href="fire_preview_t1.html" target="_blank">Timestep 1</a></li>
+<li><a href="fire_preview_t2.html" target="_blank">Timestep 2</a></li>
+<li><a href="fire_preview_t3.html" target="_blank">Timestep 3</a></li>
+<li><a href="fire_preview_t4.html" target="_blank">Timestep 4</a></li>
+    </ul>
+    
+    <h2>Data Files</h2>
+    <p>Files generated for each timestep:</p>
+    <ul>
+        <li><code>fires_t[N].geojson</code> - Fire boundary data</li>
+        <li><code>mesh_with_fire_t[N].geojson</code> - Mesh with exposure data</li>
+        <li><code>fire_preview_t[N].html</code> - Interactive map preview</li>
+    </ul>
+</body>
+</html>
+        

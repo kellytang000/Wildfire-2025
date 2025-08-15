@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "route_b18_c4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "batch": 18, "car": 4 }, "geometry": { "type": "LineString", "coordinates": [ [ -123.147756799999982, 49.7591617 ], [ -123.147756799999982, 49.7591617 ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "route_b95_c1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "batch": 95, "car": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -123.1573657, 49.7751066 ], [ -123.1559439, 49.773518299999985 ], [ -123.1554054, 49.7737174 ], [ -123.1540856, 49.7742053 ] ] } }
+]
+}
